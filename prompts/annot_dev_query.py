@@ -11,7 +11,8 @@ def prompt (sentence,shot=12):
     #Retirado daqui
     #https://github.com/YZ-Cai/SimGRAG/blob/main/prompts/rewrite_FactKG.py
 
-    prompt = """You need to segment the given query then extract the potential knowledge graph structures.
+    prompt = """
+    You need to segment the given query then extract the potential knowledge graph structures.
 
     Notes)
     1). Use the original description in the query with enough context, NEVER use unspecific words like 'in', 'is', 'for', 'of', 'have', 'go to', etc.
@@ -35,16 +36,16 @@ def prompt (sentence,shot=12):
     """
 
     for i in range(min(shot, len(examples))):
-            prompt += f"""
-    {i+1}. query: '{examples[i]['query']}'
-    {{
-        "divided": {examples[i]['divided']},
-        "graph": {examples[i]['graph']}
-    }}
-    """
+        prompt += f"""
+                    {i+1}. query: '{examples[i]['query']}'
+                    {{
+                        "divided": {examples[i]['divided']},
+                        "graph": {examples[i]['graph']}
+                    }}
+                """
 
-        return prompt + f"""
-    Your task)
-    **Read and follow the instructions and examples step by step**
-    sentence: '{sentence}'
-    """
+    return prompt + f"""
+                    Your task)
+                    **Read and follow the instructions and examples step by step**
+                    sentence: '{sentence}'
+                    """
