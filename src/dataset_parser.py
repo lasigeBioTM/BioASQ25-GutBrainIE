@@ -27,11 +27,11 @@ def kret_tags(sentence, df):
         start =row.start_idx + shift
         end=row.end_idx + shift +1
 
-        tag_num = row.label  # <eN> 
+        tag_num = i + 1  # <eN> 
 
         entity_text = tagged_sentence[start:end]
 
-        tagged_entity = f"<{tag_num}>{entity_text}</{tag_num}>"
+        tagged_entity = f"<e{tag_num}>@{row.label}$ {entity_text} @/{row.label}$</e{tag_num}>"
         
 
         tagged_sentence = tagged_sentence[:start] + tagged_entity + tagged_sentence[end:]
