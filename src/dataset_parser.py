@@ -4,10 +4,12 @@
 Created on 2025/04/15 20:50:59
 @author: SIRConceicao
 '''
-#TODO formatar dataset para correr na LLM
 
 import json
 import pandas as pd
+import warnings
+from pandas.errors import SettingWithCopyWarning
+warnings.simplefilter(action='ignore', category=SettingWithCopyWarning)
 #===================================================================================
 
 def load_data(file_path: str):
@@ -43,39 +45,6 @@ def kret_tags(sentence, df):
     df['entity_num']=entity_number
 
     return tagged_sentence,df 
-#===================================================================================
-# def build_hypergraph_old(df):
-#     hypergraph = {
-#     'nodes': set(),     # all unique nodes
-#     'hyperedges': []    # list of edges: each edge connects subject, object (could be more in future)
-#     }
-
-#     # Fill nodes and hyperedges
-#     for idx, row in df.iterrows():
-#         subj_node = (row['subject_text_span'], row['subject_label'])
-#         obj_node = (row['object_text_span'], row['object_label'])
-
-#         # Add nodes
-#         hypergraph['nodes'].add(subj_node)
-#         hypergraph['nodes'].add(obj_node)
-
-#         # Add hyperedge (connection between subject and object)
-#         hypergraph['hyperedges'].append([subj_node, obj_node])
-
-       
-#         # Now hypergraph has nodes and hyperedges!
-#         # Display nicely
-#         print("Nodes:")
-#         for node in hypergraph['nodes']:
-#             print(f"  {node}")
-
-#         print("\nHyperedges:")
-#         for edge in hypergraph['hyperedges']:
-#             print(f"  {edge}")
-
-#     # Convert set back to list for better usability
-#     hypergraph['nodes'] = list(hypergraph['nodes'])
-#     return hypergraph
 
 #===================================================================================
 def build_hypergraph(df):
@@ -93,40 +62,20 @@ def build_hypergraph(df):
             hyperedges[key] = set()
         hyperedges[key].add(subj)
 
-   
-    print("Hypergraph Set Notation:\n")
+    hypergraphs=[]
+    #print("Hypergraph Set Notation:\n")
     for (predicate, obj_text), subjects in hyperedges.items():
         subjects_text = ', '.join(subjects)
-        print(f"{{{subjects_text}}} ⟶[{predicate}] {obj_text}")
+        #print(f"{{{subjects_text}}} ⟶[{predicate}] {obj_text}")
+        hypergraphs.append(f"[{subjects_text}] ⟶[{predicate}] ⟶[{obj_text}]")
     
-    return hyperedges
+    return hypergraphs
 #===================================================================================
-# def entity_number_match(relations_df,entitynum_df):
-#     """Matches the entity number tag to the relations"""
-
-#     entitynum_df['match_key'] = list(zip(entitynum_df['text_span'], entitynum_df['start_idx'], entitynum_df['end_idx']))
-
-
-#     relations_df['subject_match_key'] = list(zip(relations_df['subject_text_span'], relations_df['subject_start_idx'], relations_df['subject_end_idx']))
-#     relations_df['object_match_key']  = list(zip(relations_df['object_text_span'], relations_df['object_start_idx'], relations_df['object_end_idx']))
-
-
-#     entity_lookup = dict(zip(entitynum_df['match_key'], entitynum_df['entity_num']))
-
-#     #map
-#     relations_df['subject_entity_num'] = relations_df['subject_match_key'].map(entity_lookup)
-#     relations_df['object_entity_num']  = relations_df['object_match_key'].map(entity_lookup)
-
-#     relations_df = relations_df.drop(columns=['subject_match_key', 'object_match_key'])
-
-#     return relations_df
-
-
 
 def entity_number_match(relations_df, entitynum_title_df, entitynum_abs_df):
     """Matches the entity number tag to the relations, considering title vs abstract"""
 
-    # Add match keys including location
+    # match keys 
     entitynum_title_df['match_key'] = list(zip(entitynum_title_df['text_span'], entitynum_title_df['start_idx'], entitynum_title_df['end_idx'], entitynum_title_df['location']))
     entitynum_abs_df['match_key'] = list(zip(entitynum_abs_df['text_span'], entitynum_abs_df['start_idx'], entitynum_abs_df['end_idx'], entitynum_abs_df['location']))
 
@@ -138,7 +87,7 @@ def entity_number_match(relations_df, entitynum_title_df, entitynum_abs_df):
     relations_df['subject_match_key'] = list(zip(relations_df['subject_text_span'], relations_df['subject_start_idx'], relations_df['subject_end_idx'], relations_df['subject_location']))
     relations_df['object_match_key'] = list(zip(relations_df['object_text_span'], relations_df['object_start_idx'], relations_df['object_end_idx'], relations_df['object_location']))
 
-    # Define a helper to choose the right lookup
+    # helper to choose the right lookup
     def match_subject(row):
         if row['subject_location'] == 'title':
             return entity_lookup_title.get(row['subject_match_key'])
@@ -151,11 +100,10 @@ def entity_number_match(relations_df, entitynum_title_df, entitynum_abs_df):
         else:
             return entity_lookup_abs.get(row['object_match_key'])
 
-    # Apply the matching
+    #  match
     relations_df['subject_entity_num'] = relations_df.apply(match_subject, axis=1)
     relations_df['object_entity_num'] = relations_df.apply(match_object, axis=1)
 
-    # Clean up
     relations_df = relations_df.drop(columns=['subject_match_key', 'object_match_key'])
 
     return relations_df
@@ -165,6 +113,7 @@ def entity_number_match(relations_df, entitynum_title_df, entitynum_abs_df):
 def build_tagged_hypergraph(df):
     # Set notation for Hypergraph representation
     # {<e5> Ent_A </e5>, <e6> Ent_B </e6>} ⟶[predicate] <e7> Ent_F </e7>
+    #returns [[subject]⟶[predicate]⟶[object]]
 
     hyperedges = {}
 
@@ -177,60 +126,152 @@ def build_tagged_hypergraph(df):
             hyperedges[key] = set()
         hyperedges[key].add(subj)
 
-    print("Tagged Hypergraph Set Notation:\n")
+
+    hypergraphs=[]
+    #print("Tagged Hypergraph Set Notation:\n")
     for (predicate, obj_entity_num, obj_text), subjects in hyperedges.items():
         subjects_text = ', '.join(subjects)
         object_text = f"<{obj_entity_num}> {obj_text} </{obj_entity_num}>"
-        print(f"{{{subjects_text}}} ⟶[{predicate}] {object_text}")
+        #print(f"{{{subjects_text}}} ⟶[{predicate}] {object_text}")
+        hypergraphs.append(f"[{subjects_text}] ⟶[{predicate}] ⟶[{object_text}]")
 
-    return hyperedges
+    return hypergraphs
+
+#===================================================================================
+def tag_dev_json(doc_path):
+
+    annotations_data= load_data(doc_path)
+
+    for annot in annotations_data:
+        jbase= annotations_data[annot]
+        metadata = jbase['metadata']
+        title = metadata['title']
+        abstract = metadata['abstract']
+        #-------------------------------------------------------------------------------
+        entities=jbase['entities']
+        ent_df = pd.DataFrame(entities)
+
+        ent_titles_df = ent_df[ent_df['location']=='title']
+        ent_abstract_df = ent_df[ent_df['location']=='abstract']
+
+        tagged_title,title_ent_tagnum = kret_tags(title, ent_titles_df)
+        tagged_abstract,abs_ent_tagnum = kret_tags(abstract, ent_abstract_df)
+        #-------------------------------------------------------------------------------
+        relations=jbase['relations']
+        relations_df=pd.DataFrame(relations)
+
+        filtered_df = relations_df[relations_df['subject_location'] != relations_df['object_location']]
+
+        tag_relations = entity_number_match(relations_df,title_ent_tagnum,abs_ent_tagnum)
+
+        relations_tagged_hypergraph = build_tagged_hypergraph(tag_relations)
+             
+        #relation_hypergraph= build_hypergraph(relations_df)
+        #-------------------------------------------------------------------------------
+        #binary_tag=jbase['binary_tag_based_relations']
+        #binary_tag_df=pd.DataFrame(binary_tag)
+        #-------------------------------------------------------------------------------
+        # ternary_tag=jbase['ternary_tag_based_relations']
+        # ternary_tag_df=pd.DataFrame(ternary_tag)
+        #-------------------------------------------------------------------------------
+        ternary_mention=jbase['ternary_mention_based_relations']
+        ternary_mention_df=pd.DataFrame(ternary_mention)
+        ternary_mention_hypergraph= build_hypergraph(ternary_mention_df)
+        #-------------------------------------------------------------------------------
+
+        metadata['title_tagged']= tagged_title
+        metadata['abstract_tagged'] = tagged_abstract
+        jbase["relations_tagged_hypergraph"]= relations_tagged_hypergraph
+        jbase['ternary_mention_tagged_relations'] = ternary_mention_hypergraph
+
+        jbase.pop('entities',None)
+        jbase.pop('ternary_mention_based_relations',None)
+        metadata.pop('title',None)
+        metadata.pop('abstract',None)
+      
+  
+    return annotations_data
 
 #===================================================================================
 
-doc_path= "data/GutBrainIE_Full_Collection_2025/Annotations/Dev/json_format/dev.json"
-annotations_data= load_data(doc_path)
+def tag_train_json(doc_path):
 
-for annot in annotations_data:
-    jbase= annotations_data[annot]
-    metadata = jbase['metadata']
-    title = metadata['title']
-    abstract = metadata['abstract']
-    #-------------------------------------------------------------------------------
-    entities=jbase['entities']
-    ent_df = pd.DataFrame(entities)
+    annotations_data= load_data(doc_path)
 
-    ent_titles_df = ent_df[ent_df['location']=='title']
-    ent_abstract_df = ent_df[ent_df['location']=='abstract']
+    for annot in annotations_data:
+        jbase= annotations_data[annot]
+        metadata = jbase['metadata']
+        title = metadata['title']
+        abstract = metadata['abstract']
+        #-------------------------------------------------------------------------------
+        entities=jbase['entities']
+        ent_df = pd.DataFrame(entities)
 
-    tagged_title,title_ent_tagnum = kret_tags(title, ent_titles_df)
-    tagged_abstract,abs_ent_tagnum = kret_tags(abstract, ent_abstract_df)
-    #-------------------------------------------------------------------------------
-    relations=jbase['relations']
-    relations_df=pd.DataFrame(relations)
+        ent_titles_df = ent_df[ent_df['location']=='title']
+        ent_abstract_df = ent_df[ent_df['location']=='abstract']
 
-    filtered_df = relations_df[relations_df['subject_location'] != relations_df['object_location']]
-    if not filtered_df.empty:
-        a=0
+        tagged_title,title_ent_tagnum = kret_tags(title, ent_titles_df)
+        tagged_abstract,abs_ent_tagnum = kret_tags(abstract, ent_abstract_df)
+        #-------------------------------------------------------------------------------
+        relations=jbase['relations']
+        relations_df=pd.DataFrame(relations)
+
+        if not relations_df.empty:
+
+            tag_relations = entity_number_match(relations_df,title_ent_tagnum,abs_ent_tagnum)
+
+            relations_tagged_hypergraph = build_tagged_hypergraph(tag_relations)
+        else: 
+             relations_tagged_hypergraph =[]
+        
+        #relation_hypergraph= build_hypergraph(relations_df)
+        #-------------------------------------------------------------------------------
+        #binary_tag=jbase['binary_tag_based_relations']
+        #binary_tag_df=pd.DataFrame(binary_tag)
+        #-------------------------------------------------------------------------------
+        # ternary_tag=jbase['ternary_tag_based_relations']
+        # ternary_tag_df=pd.DataFrame(ternary_tag)
+        #-------------------------------------------------------------------------------
+        # ternary_mention=jbase['ternary_mention_based_relations']
+        # ternary_mention_df=pd.DataFrame(ternary_mention)
+        # ternary_mention_hypergraph= build_hypergraph(ternary_mention_df)
+        #-------------------------------------------------------------------------------
+
+        metadata['title_tagged']= tagged_title
+        metadata['abstract_tagged'] = tagged_abstract
+        jbase["relations_tagged_hypergraph"]= relations_tagged_hypergraph
+        # jbase['ternary_mention_tagged_relations'] = ternary_mention_hypergraph
+
+        jbase.pop('entities',None)
+        jbase.pop('ternary_mention_based_relations',None)
+        metadata.pop('title',None)
+        metadata.pop('abstract',None)
+      
+  
+    return annotations_data
+
+#===================================================================================
+def main():
+
+    #doc_path= "data/GutBrainIE_Full_Collection_2025/Annotations/Dev/json_format/dev.json"
+
+    #annotations_data = tag_dev_json(doc_path)
+
+
+    # doc_path= "data/GutBrainIE_Full_Collection_2025/Annotations/Train/bronze_quality/json_format/train_bronze.json"
+    # doc_path= "data/GutBrainIE_Full_Collection_2025/Annotations/Train/silver_quality/json_format/train_silver.json"
+    # doc_path= "data/GutBrainIE_Full_Collection_2025/Annotations/Train/gold_quality/json_format/train_gold.json"
+    doc_path= "data/GutBrainIE_Full_Collection_2025/Annotations/Train/platinum_quality/json_format/train_platinum.json"
+
+    annotations_data = tag_train_json(doc_path)
+
     
-    # relations_title =  relations_df[relations_df['subject_location']=='title']
-    # relations_abstract =  relations_df[relations_df['subject_location']=='abstract']
+    #out_path = "data/GutBrainIE_tagged/Annotations/Dev/dev_tagged.json"
+    out_path = "data/GutBrainIE_tagged/Annotations/Train/"
+    name = doc_path.split("/")[-1].replace(".json","")
     
+    with open(f"{out_path}{name}_tagged.json", "w") as f: 
+        json.dump(annotations_data, f, indent=2)
 
-    #tag_abs_relations= entity_number_match(relations_abstract,abs_ent_tagnum)
-    tag_abs_relations = entity_number_match(relations_df,title_ent_tagnum,abs_ent_tagnum)
-
-    tagged_hypergraph = build_tagged_hypergraph(tag_abs_relations)
-    
-    relation_hypergraph= build_hypergraph(relations_df)
-    #-------------------------------------------------------------------------------
-    binary_tag=jbase['binary_tag_based_relations']
-    #binary_tag_df=pd.DataFrame(binary_tag)
-    #-------------------------------------------------------------------------------
-    ternary_tag=jbase['ternary_tag_based_relations']
-    ternary_tag_df=pd.DataFrame(ternary_tag)
-    #-------------------------------------------------------------------------------
-    ternary_mention=jbase['ternary_mention_based_relations']
-    ternary_mention_df=pd.DataFrame(ternary_mention)
-    ternary_mention_hypergraph= build_hypergraph(ternary_mention_df)
-    #-------------------------------------------------------------------------------
-    
+if __name__ == "__main__":
+    main()
