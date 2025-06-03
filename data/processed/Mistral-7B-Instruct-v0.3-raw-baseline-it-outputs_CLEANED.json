@@ -1,0 +1,583 @@
+{
+  "30099552": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "37124355": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "29870894": {
+    "entities": [],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "Short Chain Fatty Acids (SCFAs)",
+        "subject_label": "chemical",
+        "predicate": "produced by",
+        "object_text_span": "gut microbiome",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "UHR subjects",
+        "subject_label": "human",
+        "predicate": "strike",
+        "object_text_span": "ACC",
+        "object_label": "anatomical location"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "chemical",
+        "predicate": "produced by",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "human",
+        "predicate": "strike",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "38222911": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "34588398": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "38432179": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "28027925": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "29315562": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "35786740": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "31749671": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "28767318": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "33742731": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "28899766": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "36271691": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "35153869": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "33935741": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "38463411": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "36801431": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "37663891": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "33087994": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "32399169": {
+    "entities": [],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "human",
+        "object_label": "human"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38078745": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "34789332": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "30747427": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "33181474": {
+    "entities": [],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "children",
+        "object_label": "human"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "33066107": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "37714308": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "37305758": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "31158941": {
+    "entities": [],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "34485176": {
+    "entities": [],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "<i>Akkermansia</i>",
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_text_span": "older adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "<i>Escherichia</i>/<i>Shigella</i>",
+        "subject_label": "bacteria",
+        "predicate": "interact",
+        "object_text_span": "IL-6",
+        "object_label": "chemical"
+      },
+      {
+        "subject_text_span": "<i>Alistipes</i>",
+        "subject_label": "bacteria",
+        "predicate": "interact",
+        "object_text_span": "IL-6",
+        "object_label": "chemical"
+      },
+      {
+        "subject_text_span": "<i>Alistipes</i>",
+        "subject_label": "bacteria",
+        "predicate": "interact",
+        "object_text_span": "HGMB1",
+        "object_label": "chemical"
+      },
+      {
+        "subject_text_span": "<i>Akkermansia</i>",
+        "subject_label": "bacteria",
+        "predicate": "impact",
+        "object_text_span": "inflammatory factors",
+        "object_label": "chemical"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "interact",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "interact",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "interact",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "impact",
+        "object_label": "chemical"
+      }
+    ]
+  },
+  "28901279": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "35994167": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "35399136": {
+    "entities": [],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "animal",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "Alleoprevotella",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "succinate",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "animal"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "32495743": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "31736803": {
+    "entities": [],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "subjects",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Enterobacter spp",
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_text_span": "subjects",
+        "object_label": "human"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "37400661": {
+    "entities": [],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "Isoalantolactone",
+        "subject_label": "drug",
+        "predicate": "change expression",
+        "object_text_span": "PSD95",
+        "object_label": "gene"
+      },
+      {
+        "subject_text_span": "Isoalantolactone",
+        "subject_label": "drug",
+        "predicate": "change expression",
+        "object_text_span": "BDNF",
+        "object_label": "gene"
+      },
+      {
+        "subject_text_span": "Isoalantolactone",
+        "subject_label": "drug",
+        "predicate": "change expression",
+        "object_text_span": "GluA1",
+        "object_label": "gene"
+      },
+      {
+        "subject_text_span": "Isoalantolactone",
+        "subject_label": "drug",
+        "predicate": "change expression",
+        "object_text_span": "TNF-α",
+        "object_label": "chemical"
+      },
+      {
+        "subject_text_span": "Isoalantolactone",
+        "subject_label": "drug",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "Isoalantolactone",
+        "subject_label": "drug",
+        "predicate": "interact",
+        "object_text_span": "fluoxetine",
+        "object_label": "drug"
+      },
+      {
+        "subject_text_span": "butyric acid",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "butyric acid",
+        "subject_label": "chemical",
+        "predicate": "produced by",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "butyric acid",
+        "subject_label": "chemical",
+        "predicate": "change abundance",
+        "object_text_span": "Bacteroidetes",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "butyric acid",
+        "subject_label": "chemical",
+        "predicate": "change abundance",
+        "object_text_span": "Proteobacteria",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "butyric acid",
+        "subject_label": "chemical",
+        "predicate": "change abundance",
+        "object_text_span": "Firmicutes",
+        "object_label": "bacteria"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "drug",
+        "predicate": "change expression",
+        "object_label": "gene"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "change expression",
+        "object_label": "gene"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "change expression",
+        "object_label": "gene"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "change expression",
+        "object_label": "chemical"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "drug",
+        "predicate": "interact",
+        "object_label": "drug"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "produced by",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "change abundance",
+        "object_label": "bacteria"
+      }
+    ]
+  },
+  "37432210": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "36009361": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "26370263": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "31519175": {
+    "entities": [],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  }
+}

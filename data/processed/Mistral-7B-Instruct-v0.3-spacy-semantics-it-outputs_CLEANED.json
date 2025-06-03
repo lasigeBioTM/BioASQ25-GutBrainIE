@@ -1,0 +1,5390 @@
+{
+  "30099552": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 654,
+        "end_idx": 659
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 713,
+        "end_idx": 718
+      },
+      {
+        "location": "abstract",
+        "text_span": "vagus nerve",
+        "label": "anatomical location",
+        "start_idx": 825,
+        "end_idx": 836
+      },
+      {
+        "location": "abstract",
+        "text_span": "immune system",
+        "label": "anatomical location",
+        "start_idx": 860,
+        "end_idx": 873
+      },
+      {
+        "location": "abstract",
+        "text_span": "neuropsychiatric disorders",
+        "label": "DDF",
+        "start_idx": 972,
+        "end_idx": 998
+      },
+      {
+        "location": "abstract",
+        "text_span": "mood",
+        "label": "DDF",
+        "start_idx": 1014,
+        "end_idx": 1018
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety disorders",
+        "label": "DDF",
+        "start_idx": 1023,
+        "end_idx": 1040
+      },
+      {
+        "location": "abstract",
+        "text_span": "autism spectrum disorder",
+        "label": "DDF",
+        "start_idx": 1079,
+        "end_idx": 1103
+      },
+      {
+        "location": "abstract",
+        "text_span": "schizophrenia",
+        "label": "DDF",
+        "start_idx": 1108,
+        "end_idx": 1121
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodegenerative disorders",
+        "label": "DDF",
+        "start_idx": 1132,
+        "end_idx": 1159
+      },
+      {
+        "location": "abstract",
+        "text_span": "Alzheimer's",
+        "label": "DDF",
+        "start_idx": 1168,
+        "end_idx": 1179
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's diseases",
+        "label": "DDF",
+        "start_idx": 1184,
+        "end_idx": 1204
+      },
+      {
+        "location": "abstract",
+        "text_span": "decline",
+        "label": "DDF",
+        "start_idx": 1421,
+        "end_idx": 1428
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "37124355": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Schizophrenia",
+        "label": "DDF",
+        "start_idx": 46,
+        "end_idx": 59
+      },
+      {
+        "location": "abstract",
+        "text_span": "neuropsychiatric disorder",
+        "label": "DDF",
+        "start_idx": 39,
+        "end_idx": 64
+      },
+      {
+        "location": "abstract",
+        "text_span": "tyrosine",
+        "label": "chemical",
+        "start_idx": 1398,
+        "end_idx": 1406
+      },
+      {
+        "location": "abstract",
+        "text_span": "dopamine",
+        "label": "chemical",
+        "start_idx": 1424,
+        "end_idx": 1432
+      },
+      {
+        "location": "abstract",
+        "text_span": "dopamine",
+        "label": "chemical",
+        "start_idx": 1819,
+        "end_idx": 1827
+      },
+      {
+        "location": "abstract",
+        "text_span": "SCZ",
+        "label": "DDF",
+        "start_idx": 1936,
+        "end_idx": 1939
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "29870894": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "location": "title",
+        "text_span": "psychosis",
+        "label": "DDF",
+        "start_idx": 92,
+        "end_idx": 101
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 15,
+        "end_idx": 24
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 62,
+        "end_idx": 67
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 183,
+        "end_idx": 186
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 202,
+        "end_idx": 207
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal samples",
+        "label": "anatomical location",
+        "start_idx": 313,
+        "end_idx": 326
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 515,
+        "end_idx": 518
+      },
+      {
+        "location": "abstract",
+        "text_span": "choline",
+        "label": "chemical",
+        "start_idx": 534,
+        "end_idx": 541
+      },
+      {
+        "location": "abstract",
+        "text_span": "anterior cingulate cortex",
+        "label": "anatomical location",
+        "start_idx": 564,
+        "end_idx": 589
+      },
+      {
+        "location": "abstract",
+        "text_span": "ACC",
+        "label": "anatomical location",
+        "start_idx": 591,
+        "end_idx": 594
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal samples",
+        "label": "anatomical location",
+        "start_idx": 706,
+        "end_idx": 719
+      },
+      {
+        "location": "abstract",
+        "text_span": "UHR",
+        "label": "DDF",
+        "start_idx": 723,
+        "end_idx": 726
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 797,
+        "end_idx": 800
+      },
+      {
+        "location": "abstract",
+        "text_span": "SCFAs",
+        "label": "chemical",
+        "start_idx": 874,
+        "end_idx": 879
+      },
+      {
+        "location": "abstract",
+        "text_span": "choline",
+        "label": "chemical",
+        "start_idx": 1001,
+        "end_idx": 1008
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 1019,
+        "end_idx": 1024
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1157,
+        "end_idx": 1160
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 1248,
+        "end_idx": 1253
+      },
+      {
+        "location": "abstract",
+        "text_span": "schizophrenia",
+        "label": "DDF",
+        "start_idx": 1305,
+        "end_idx": 1318
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "intestinal microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "anterior cingulate cortex",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "brain",
+        "object_label": "anatomical location"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "38222911": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 72,
+        "end_idx": 75
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 20,
+        "end_idx": 23
+      },
+      {
+        "location": "abstract",
+        "text_span": "human",
+        "label": "human",
+        "start_idx": 74,
+        "end_idx": 79
+      },
+      {
+        "location": "abstract",
+        "text_span": "inflammatory bowel diseases",
+        "label": "DDF",
+        "start_idx": 157,
+        "end_idx": 184
+      },
+      {
+        "location": "abstract",
+        "text_span": "colon cancer",
+        "label": "DDF",
+        "start_idx": 186,
+        "end_idx": 198
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurological",
+        "label": "anatomical location",
+        "start_idx": 209,
+        "end_idx": 221
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 312,
+        "end_idx": 321
+      },
+      {
+        "location": "abstract",
+        "text_span": "SCFAs",
+        "label": "chemical",
+        "start_idx": 498,
+        "end_idx": 503
+      },
+      {
+        "location": "abstract",
+        "text_span": "cytokines",
+        "label": "gene",
+        "start_idx": 672,
+        "end_idx": 681
+      },
+      {
+        "location": "abstract",
+        "text_span": "Interleukin 10 and 18",
+        "label": "gene",
+        "start_idx": 683,
+        "end_idx": 704
+      },
+      {
+        "location": "abstract",
+        "text_span": "serotonin",
+        "label": "chemical",
+        "start_idx": 729,
+        "end_idx": 738
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestine",
+        "label": "anatomical location",
+        "start_idx": 747,
+        "end_idx": 756
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 769,
+        "end_idx": 772
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal barrier system",
+        "label": "anatomical location",
+        "start_idx": 785,
+        "end_idx": 810
+      },
+      {
+        "location": "abstract",
+        "text_span": "immune",
+        "label": "anatomical location",
+        "start_idx": 821,
+        "end_idx": 827
+      },
+      {
+        "location": "abstract",
+        "text_span": "SCFAs",
+        "label": "chemical",
+        "start_idx": 899,
+        "end_idx": 904
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal barrier",
+        "label": "anatomical location",
+        "start_idx": 914,
+        "end_idx": 932
+      },
+      {
+        "location": "abstract",
+        "text_span": "As",
+        "label": "chemical",
+        "start_idx": 953,
+        "end_idx": 955
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 965,
+        "end_idx": 974
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "intestinal microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "human",
+        "object_label": "human"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "34588398": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "AIMD",
+        "label": "DDF",
+        "start_idx": 45,
+        "end_idx": 49
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 431,
+        "end_idx": 440
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 515,
+        "end_idx": 525
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatty acids",
+        "label": "chemical",
+        "start_idx": 644,
+        "end_idx": 655
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal endocrine",
+        "label": "anatomical location",
+        "start_idx": 753,
+        "end_idx": 773
+      },
+      {
+        "location": "abstract",
+        "text_span": "glucagon-like peptide 1",
+        "label": "gene",
+        "start_idx": 827,
+        "end_idx": 850
+      },
+      {
+        "location": "abstract",
+        "text_span": "peptide YY",
+        "label": "gene",
+        "start_idx": 852,
+        "end_idx": 862
+      },
+      {
+        "location": "abstract",
+        "text_span": "cholecystokinin",
+        "label": "gene",
+        "start_idx": 864,
+        "end_idx": 879
+      },
+      {
+        "location": "abstract",
+        "text_span": "ghrelin",
+        "label": "gene",
+        "start_idx": 884,
+        "end_idx": 891
+      },
+      {
+        "location": "abstract",
+        "text_span": "vagus nerve",
+        "label": "anatomical location",
+        "start_idx": 930,
+        "end_idx": 941
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 964,
+        "end_idx": 969
+      },
+      {
+        "location": "abstract",
+        "text_span": "neuropeptide receptors",
+        "label": "gene",
+        "start_idx": 1037,
+        "end_idx": 1059
+      },
+      {
+        "location": "abstract",
+        "text_span": "AIMD",
+        "label": "DDF",
+        "start_idx": 1145,
+        "end_idx": 1149
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 1188,
+        "end_idx": 1197
+      },
+      {
+        "location": "abstract",
+        "text_span": "metformin",
+        "label": "drug",
+        "start_idx": 1213,
+        "end_idx": 1222
+      },
+      {
+        "location": "abstract",
+        "text_span": "metformin",
+        "label": "drug",
+        "start_idx": 1492,
+        "end_idx": 1501
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "38432179": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "vitamin D<sub>3</sub>",
+        "label": "chemical",
+        "start_idx": 15,
+        "end_idx": 36
+      },
+      {
+        "location": "title",
+        "text_span": "colonic",
+        "label": "anatomical location",
+        "start_idx": 76,
+        "end_idx": 83
+      },
+      {
+        "location": "title",
+        "text_span": "anxiety",
+        "label": "DDF",
+        "start_idx": 132,
+        "end_idx": 139
+      },
+      {
+        "location": "abstract",
+        "text_span": "VD receptor",
+        "label": "gene",
+        "start_idx": 1133,
+        "end_idx": 1144
+      },
+      {
+        "location": "abstract",
+        "text_span": "TPH1",
+        "label": "gene",
+        "start_idx": 1254,
+        "end_idx": 1258
+      },
+      {
+        "location": "abstract",
+        "text_span": "colonic",
+        "label": "anatomical location",
+        "start_idx": 1464,
+        "end_idx": 1471
+      },
+      {
+        "location": "abstract",
+        "text_span": "serotonin",
+        "label": "chemical",
+        "start_idx": 1500,
+        "end_idx": 1509
+      },
+      {
+        "location": "abstract",
+        "text_span": "mood disorders",
+        "label": "DDF",
+        "start_idx": 1573,
+        "end_idx": 1587
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "28027925": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "MetS",
+        "label": "DDF",
+        "start_idx": 278,
+        "end_idx": 282
+      },
+      {
+        "location": "abstract",
+        "text_span": "neuropsychiatric symptoms",
+        "label": "DDF",
+        "start_idx": 308,
+        "end_idx": 333
+      },
+      {
+        "location": "abstract",
+        "text_span": "MetS",
+        "label": "DDF",
+        "start_idx": 486,
+        "end_idx": 490
+      },
+      {
+        "location": "abstract",
+        "text_span": "hypothalamic",
+        "label": "anatomical location",
+        "start_idx": 1384,
+        "end_idx": 1396
+      },
+      {
+        "location": "abstract",
+        "text_span": "IL-1β",
+        "label": "gene",
+        "start_idx": 1442,
+        "end_idx": 1447
+      },
+      {
+        "location": "abstract",
+        "text_span": "hypothalamic",
+        "label": "anatomical location",
+        "start_idx": 1487,
+        "end_idx": 1499
+      },
+      {
+        "location": "abstract",
+        "text_span": "NPY",
+        "label": "gene",
+        "start_idx": 1512,
+        "end_idx": 1515
+      },
+      {
+        "location": "abstract",
+        "text_span": "CART",
+        "label": "gene",
+        "start_idx": 1535,
+        "end_idx": 1539
+      },
+      {
+        "location": "abstract",
+        "text_span": "POMC",
+        "label": "gene",
+        "start_idx": 1541,
+        "end_idx": 1545
+      },
+      {
+        "location": "abstract",
+        "text_span": "blood-brain-barrier",
+        "label": "anatomical location",
+        "start_idx": 1606,
+        "end_idx": 1625
+      },
+      {
+        "location": "abstract",
+        "text_span": "hypothalamus",
+        "label": "anatomical location",
+        "start_idx": 1643,
+        "end_idx": 1655
+      },
+      {
+        "location": "abstract",
+        "text_span": "oligofructose",
+        "label": "chemical",
+        "start_idx": 1659,
+        "end_idx": 1672
+      },
+      {
+        "location": "abstract",
+        "text_span": "ZO-1",
+        "label": "gene",
+        "start_idx": 1742,
+        "end_idx": 1746
+      },
+      {
+        "location": "abstract",
+        "text_span": "occludin",
+        "label": "gene",
+        "start_idx": 1751,
+        "end_idx": 1759
+      },
+      {
+        "location": "abstract",
+        "text_span": "hippocampal",
+        "label": "anatomical location",
+        "start_idx": 1871,
+        "end_idx": 1882
+      },
+      {
+        "location": "abstract",
+        "text_span": "hippocampal",
+        "label": "anatomical location",
+        "start_idx": 1956,
+        "end_idx": 1967
+      },
+      {
+        "location": "abstract",
+        "text_span": "IL-6",
+        "label": "gene",
+        "start_idx": 1968,
+        "end_idx": 1972
+      },
+      {
+        "location": "abstract",
+        "text_span": "dentate gyrus",
+        "label": "anatomical location",
+        "start_idx": 2058,
+        "end_idx": 2071
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "29315562": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "substantia nigra",
+        "label": "anatomical location",
+        "start_idx": 114,
+        "end_idx": 130
+      },
+      {
+        "location": "abstract",
+        "text_span": "substantia nigra",
+        "label": "anatomical location",
+        "start_idx": 1546,
+        "end_idx": 1562
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1482,
+        "end_idx": 1485
+      },
+      {
+        "location": "abstract",
+        "text_span": "L-ferritin",
+        "label": "gene",
+        "start_idx": 1519,
+        "end_idx": 1529
+      },
+      {
+        "location": "abstract",
+        "text_span": "iron",
+        "label": "chemical",
+        "start_idx": 405,
+        "end_idx": 409
+      },
+      {
+        "location": "abstract",
+        "text_span": "paraquat",
+        "label": "chemical",
+        "start_idx": 1107,
+        "end_idx": 1115
+      },
+      {
+        "location": "abstract",
+        "text_span": "paraquat",
+        "label": "chemical",
+        "start_idx": 1237,
+        "end_idx": 1245
+      },
+      {
+        "location": "abstract",
+        "text_span": "paraquat",
+        "label": "chemical",
+        "start_idx": 1386,
+        "end_idx": 1394
+      },
+      {
+        "location": "abstract",
+        "text_span": "paraquat",
+        "label": "chemical",
+        "start_idx": 1704,
+        "end_idx": 1712
+      },
+      {
+        "location": "abstract",
+        "text_span": "paraquat",
+        "label": "chemical",
+        "start_idx": 1946,
+        "end_idx": 1954
+      },
+      {
+        "location": "abstract",
+        "text_span": "paraquat",
+        "label": "chemical",
+        "start_idx": 2117,
+        "end_idx": 2125
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodegenerative diseases",
+        "label": "DDF",
+        "start_idx": 555,
+        "end_idx": 581
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 819,
+        "end_idx": 838
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 2032,
+        "end_idx": 2051
+      },
+      {
+        "location": "abstract",
+        "text_span": "HFE",
+        "label": "gene",
+        "start_idx": 509,
+        "end_idx": 512
+      },
+      {
+        "location": "abstract",
+        "text_span": "HFE",
+        "label": "gene",
+        "start_idx": 2084,
+        "end_idx": 2087
+      },
+      {
+        "location": "abstract",
+        "text_span": "H63D HFE",
+        "label": "gene",
+        "start_idx": 610,
+        "end_idx": 618
+      },
+      {
+        "location": "abstract",
+        "text_span": "H67D",
+        "label": "gene",
+        "start_idx": 712,
+        "end_idx": 716
+      },
+      {
+        "location": "abstract",
+        "text_span": "HFE",
+        "label": "gene",
+        "start_idx": 684,
+        "end_idx": 687
+      },
+      {
+        "location": "abstract",
+        "text_span": "H63D",
+        "label": "gene",
+        "start_idx": 758,
+        "end_idx": 762
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "35786740": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 0,
+        "end_idx": 3
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 48,
+        "end_idx": 57
+      },
+      {
+        "location": "abstract",
+        "text_span": "body systems",
+        "label": "anatomical location",
+        "start_idx": 132,
+        "end_idx": 144
+      },
+      {
+        "location": "abstract",
+        "text_span": "non-communicable chronic diseases",
+        "label": "DDF",
+        "start_idx": 241,
+        "end_idx": 274
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 356,
+        "end_idx": 359
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 363,
+        "end_idx": 368
+      },
+      {
+        "location": "abstract",
+        "text_span": "inflammatory bowel disease",
+        "label": "DDF",
+        "start_idx": 378,
+        "end_idx": 404
+      },
+      {
+        "location": "abstract",
+        "text_span": "irritable bowel syndrome",
+        "label": "DDF",
+        "start_idx": 406,
+        "end_idx": 430
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's",
+        "label": "DDF",
+        "start_idx": 432,
+        "end_idx": 443
+      },
+      {
+        "location": "abstract",
+        "text_span": "Alzheimer's disease",
+        "label": "DDF",
+        "start_idx": 448,
+        "end_idx": 467
+      },
+      {
+        "location": "abstract",
+        "text_span": "autism spectrum disorder",
+        "label": "DDF",
+        "start_idx": 473,
+        "end_idx": 497
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 565,
+        "end_idx": 568
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 703,
+        "end_idx": 706
+      },
+      {
+        "location": "abstract",
+        "text_span": "immune system",
+        "label": "anatomical location",
+        "start_idx": 723,
+        "end_idx": 736
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 746,
+        "end_idx": 751
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 829,
+        "end_idx": 838
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 1051,
+        "end_idx": 1060
+      },
+      {
+        "location": "abstract",
+        "text_span": "neuro-immune",
+        "label": "anatomical location",
+        "start_idx": 1088,
+        "end_idx": 1100
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 1315,
+        "end_idx": 1324
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 1484,
+        "end_idx": 1489
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "31749671": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 45,
+        "end_idx": 48
+      },
+      {
+        "location": "title",
+        "text_span": "Fecal",
+        "label": "anatomical location",
+        "start_idx": 76,
+        "end_idx": 81
+      },
+      {
+        "location": "title",
+        "text_span": "Inflammation",
+        "label": "DDF",
+        "start_idx": 93,
+        "end_idx": 105
+      },
+      {
+        "location": "title",
+        "text_span": "Parkinson's Disease",
+        "label": "DDF",
+        "start_idx": 109,
+        "end_idx": 128
+      },
+      {
+        "location": "abstract",
+        "text_span": "head",
+        "label": "anatomical location",
+        "start_idx": 231,
+        "end_idx": 235
+      },
+      {
+        "location": "abstract",
+        "text_span": "nicotine",
+        "label": "chemical",
+        "start_idx": 244,
+        "end_idx": 252
+      },
+      {
+        "location": "abstract",
+        "text_span": "SNCA",
+        "label": "gene",
+        "start_idx": 347,
+        "end_idx": 351
+      },
+      {
+        "location": "abstract",
+        "text_span": "SNCA",
+        "label": "gene",
+        "start_idx": 358,
+        "end_idx": 362
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 412,
+        "end_idx": 414
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 518,
+        "end_idx": 521
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal",
+        "label": "anatomical location",
+        "start_idx": 609,
+        "end_idx": 614
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal",
+        "label": "anatomical location",
+        "start_idx": 659,
+        "end_idx": 664
+      },
+      {
+        "location": "abstract",
+        "text_span": "calp",
+        "label": "gene",
+        "start_idx": 678,
+        "end_idx": 682
+      },
+      {
+        "location": "abstract",
+        "text_span": "colon",
+        "label": "anatomical location",
+        "start_idx": 700,
+        "end_idx": 705
+      },
+      {
+        "location": "abstract",
+        "text_span": "SN",
+        "label": "gene",
+        "start_idx": 721,
+        "end_idx": 723
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 844,
+        "end_idx": 847
+      },
+      {
+        "location": "abstract",
+        "text_span": "SNCA",
+        "label": "gene",
+        "start_idx": 878,
+        "end_idx": 882
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 954,
+        "end_idx": 957
+      },
+      {
+        "location": "abstract",
+        "text_span": "SNCA",
+        "label": "gene",
+        "start_idx": 1048,
+        "end_idx": 1052
+      },
+      {
+        "location": "abstract",
+        "text_span": "colon fecal",
+        "label": "anatomical location",
+        "start_idx": 1087,
+        "end_idx": 1098
+      },
+      {
+        "location": "abstract",
+        "text_span": "calprotectin",
+        "label": "gene",
+        "start_idx": 1112,
+        "end_idx": 1124
+      },
+      {
+        "location": "abstract",
+        "text_span": "SNCA",
+        "label": "gene",
+        "start_idx": 1143,
+        "end_idx": 1147
+      },
+      {
+        "location": "abstract",
+        "text_span": "cytokines",
+        "label": "gene",
+        "start_idx": 1212,
+        "end_idx": 1221
+      },
+      {
+        "location": "abstract",
+        "text_span": "feces",
+        "label": "anatomical location",
+        "start_idx": 1229,
+        "end_idx": 1234
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "patients",
+        "object_label": "human"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "28767318": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 4,
+        "end_idx": 7
+      },
+      {
+        "location": "title",
+        "text_span": "Trauma-Related Disorders",
+        "label": "DDF",
+        "start_idx": 68,
+        "end_idx": 92
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety-",
+        "label": "DDF",
+        "start_idx": 110,
+        "end_idx": 118
+      },
+      {
+        "location": "abstract",
+        "text_span": "trauma-related disorders",
+        "label": "DDF",
+        "start_idx": 123,
+        "end_idx": 147
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 210,
+        "end_idx": 213
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 282,
+        "end_idx": 287
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 531,
+        "end_idx": 534
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety-",
+        "label": "DDF",
+        "start_idx": 549,
+        "end_idx": 557
+      },
+      {
+        "location": "abstract",
+        "text_span": "trauma-related disorders",
+        "label": "DDF",
+        "start_idx": 562,
+        "end_idx": 586
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 603,
+        "end_idx": 612
+      },
+      {
+        "location": "abstract",
+        "text_span": "MGB",
+        "label": "anatomical location",
+        "start_idx": 614,
+        "end_idx": 617
+      },
+      {
+        "location": "abstract",
+        "text_span": "hypothalamic-pituitary-adrenal",
+        "label": "anatomical location",
+        "start_idx": 750,
+        "end_idx": 780
+      },
+      {
+        "location": "abstract",
+        "text_span": "HPA) axis",
+        "label": "anatomical location",
+        "start_idx": 782,
+        "end_idx": 791
+      },
+      {
+        "location": "abstract",
+        "text_span": "psychiatric disorders",
+        "label": "DDF",
+        "start_idx": 922,
+        "end_idx": 943
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety-",
+        "label": "DDF",
+        "start_idx": 957,
+        "end_idx": 965
+      },
+      {
+        "location": "abstract",
+        "text_span": "trauma-related disorders",
+        "label": "DDF",
+        "start_idx": 970,
+        "end_idx": 994
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1025,
+        "end_idx": 1028
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1388,
+        "end_idx": 1391
+      },
+      {
+        "location": "abstract",
+        "text_span": "MG",
+        "label": "anatomical location",
+        "start_idx": 1514,
+        "end_idx": 1516
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1583,
+        "end_idx": 1586
+      },
+      {
+        "location": "abstract",
+        "text_span": "mental illness",
+        "label": "DDF",
+        "start_idx": 1645,
+        "end_idx": 1659
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "33742731": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Fecal",
+        "label": "anatomical location",
+        "start_idx": 0,
+        "end_idx": 5
+      },
+      {
+        "location": "title",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 45,
+        "end_idx": 48
+      },
+      {
+        "location": "title",
+        "text_span": "intestinal barrier",
+        "label": "anatomical location",
+        "start_idx": 74,
+        "end_idx": 92
+      },
+      {
+        "location": "title",
+        "text_span": "depressive",
+        "label": "DDF",
+        "start_idx": 128,
+        "end_idx": 138
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 4,
+        "end_idx": 7
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 19,
+        "end_idx": 24
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal tract",
+        "label": "anatomical location",
+        "start_idx": 98,
+        "end_idx": 120
+      },
+      {
+        "location": "abstract",
+        "text_span": "central nervous system",
+        "label": "anatomical location",
+        "start_idx": 129,
+        "end_idx": 151
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 210,
+        "end_idx": 213
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 217,
+        "end_idx": 222
+      },
+      {
+        "location": "abstract",
+        "text_span": "depressive",
+        "label": "DDF",
+        "start_idx": 269,
+        "end_idx": 279
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal barrier",
+        "label": "anatomical location",
+        "start_idx": 295,
+        "end_idx": 313
+      },
+      {
+        "location": "abstract",
+        "text_span": "neuroinflammation",
+        "label": "DDF",
+        "start_idx": 319,
+        "end_idx": 336
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal",
+        "label": "anatomical location",
+        "start_idx": 357,
+        "end_idx": 362
+      },
+      {
+        "location": "abstract",
+        "text_span": "sucrose",
+        "label": "chemical",
+        "start_idx": 419,
+        "end_idx": 426
+      },
+      {
+        "location": "abstract",
+        "text_span": "villi",
+        "label": "anatomical location",
+        "start_idx": 624,
+        "end_idx": 629
+      },
+      {
+        "location": "abstract",
+        "text_span": "epithelial",
+        "label": "anatomical location",
+        "start_idx": 634,
+        "end_idx": 644
+      },
+      {
+        "location": "abstract",
+        "text_span": "ileum",
+        "label": "anatomical location",
+        "start_idx": 705,
+        "end_idx": 710
+      },
+      {
+        "location": "abstract",
+        "text_span": "ZO-1",
+        "label": "gene",
+        "start_idx": 740,
+        "end_idx": 744
+      },
+      {
+        "location": "abstract",
+        "text_span": "occludin",
+        "label": "gene",
+        "start_idx": 746,
+        "end_idx": 754
+      },
+      {
+        "location": "abstract",
+        "text_span": "mucosal layer",
+        "label": "anatomical location",
+        "start_idx": 770,
+        "end_idx": 783
+      },
+      {
+        "location": "abstract",
+        "text_span": "NLRP3",
+        "label": "gene",
+        "start_idx": 843,
+        "end_idx": 848
+      },
+      {
+        "location": "abstract",
+        "text_span": "ASC",
+        "label": "gene",
+        "start_idx": 850,
+        "end_idx": 853
+      },
+      {
+        "location": "abstract",
+        "text_span": "caspase-1",
+        "label": "gene",
+        "start_idx": 855,
+        "end_idx": 864
+      },
+      {
+        "location": "abstract",
+        "text_span": "IL-1β",
+        "label": "gene",
+        "start_idx": 870,
+        "end_idx": 875
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "fecal microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "intestinal barrier",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "28899766": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "tissues",
+        "label": "anatomical location",
+        "start_idx": 517,
+        "end_idx": 524
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 734,
+        "end_idx": 737
+      },
+      {
+        "location": "abstract",
+        "text_span": "immune system",
+        "label": "anatomical location",
+        "start_idx": 753,
+        "end_idx": 766
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 785,
+        "end_idx": 794
+      },
+      {
+        "location": "abstract",
+        "text_span": "abnormalities",
+        "label": "DDF",
+        "start_idx": 931,
+        "end_idx": 944
+      },
+      {
+        "location": "abstract",
+        "text_span": "infections",
+        "label": "DDF",
+        "start_idx": 949,
+        "end_idx": 959
+      },
+      {
+        "location": "abstract",
+        "text_span": "LGI",
+        "label": "DDF",
+        "start_idx": 1013,
+        "end_idx": 1016
+      },
+      {
+        "location": "abstract",
+        "text_span": "omega-3 fatty acid",
+        "label": "chemical",
+        "start_idx": 1132,
+        "end_idx": 1150
+      },
+      {
+        "location": "abstract",
+        "text_span": "polyphenol",
+        "label": "chemical",
+        "start_idx": 1190,
+        "end_idx": 1200
+      },
+      {
+        "location": "abstract",
+        "text_span": "LGI",
+        "label": "DDF",
+        "start_idx": 1295,
+        "end_idx": 1298
+      },
+      {
+        "location": "abstract",
+        "text_span": "LGI",
+        "label": "DDF",
+        "start_idx": 1553,
+        "end_idx": 1556
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "36271691": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 25,
+        "end_idx": 28
+      },
+      {
+        "location": "title",
+        "text_span": "B vitamins",
+        "label": "chemical",
+        "start_idx": 48,
+        "end_idx": 58
+      },
+      {
+        "location": "title",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 115,
+        "end_idx": 124
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 10,
+        "end_idx": 13
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 62,
+        "end_idx": 72
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 170,
+        "end_idx": 173
+      },
+      {
+        "location": "abstract",
+        "text_span": "B vitamins",
+        "label": "chemical",
+        "start_idx": 209,
+        "end_idx": 219
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut microbiome",
+        "label": "anatomical location",
+        "start_idx": 517,
+        "end_idx": 531
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut microbial",
+        "label": "anatomical location",
+        "start_idx": 621,
+        "end_idx": 634
+      },
+      {
+        "location": "abstract",
+        "text_span": "B vitamins",
+        "label": "chemical",
+        "start_idx": 649,
+        "end_idx": 659
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 851,
+        "end_idx": 854
+      },
+      {
+        "location": "abstract",
+        "text_span": "B-vitamins",
+        "label": "chemical",
+        "start_idx": 890,
+        "end_idx": 900
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 944,
+        "end_idx": 947
+      },
+      {
+        "location": "abstract",
+        "text_span": "small intestine",
+        "label": "anatomical location",
+        "start_idx": 978,
+        "end_idx": 993
+      },
+      {
+        "location": "abstract",
+        "text_span": "distal gut",
+        "label": "anatomical location",
+        "start_idx": 1011,
+        "end_idx": 1021
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1058,
+        "end_idx": 1061
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 1187,
+        "end_idx": 1192
+      },
+      {
+        "location": "abstract",
+        "text_span": "kynurenines/tryptophan",
+        "label": "chemical",
+        "start_idx": 1215,
+        "end_idx": 1237
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurological",
+        "label": "anatomical location",
+        "start_idx": 1251,
+        "end_idx": 1263
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "intestinal microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "35153869": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Periodontal",
+        "label": "anatomical location",
+        "start_idx": 43,
+        "end_idx": 54
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 447,
+        "end_idx": 450
+      },
+      {
+        "location": "abstract",
+        "text_span": "oral",
+        "label": "anatomical location",
+        "start_idx": 560,
+        "end_idx": 564
+      },
+      {
+        "location": "abstract",
+        "text_span": "oral cavity",
+        "label": "anatomical location",
+        "start_idx": 593,
+        "end_idx": 604
+      },
+      {
+        "location": "abstract",
+        "text_span": "soft and hard tissues",
+        "label": "anatomical location",
+        "start_idx": 719,
+        "end_idx": 740
+      },
+      {
+        "location": "abstract",
+        "text_span": "Periodontal",
+        "label": "anatomical location",
+        "start_idx": 742,
+        "end_idx": 753
+      },
+      {
+        "location": "abstract",
+        "text_span": "infectious and inflammatory diseases",
+        "label": "DDF",
+        "start_idx": 784,
+        "end_idx": 820
+      },
+      {
+        "location": "abstract",
+        "text_span": "periodontium",
+        "label": "anatomical location",
+        "start_idx": 837,
+        "end_idx": 849
+      },
+      {
+        "location": "abstract",
+        "text_span": "periodontitis",
+        "label": "DDF",
+        "start_idx": 863,
+        "end_idx": 876
+      },
+      {
+        "location": "abstract",
+        "text_span": "chronic, multi-bacterial infection",
+        "label": "DDF",
+        "start_idx": 893,
+        "end_idx": 927
+      },
+      {
+        "location": "abstract",
+        "text_span": "periodontal",
+        "label": "anatomical location",
+        "start_idx": 1088,
+        "end_idx": 1099
+      },
+      {
+        "location": "abstract",
+        "text_span": "Periodontitis",
+        "label": "DDF",
+        "start_idx": 1111,
+        "end_idx": 1124
+      },
+      {
+        "location": "abstract",
+        "text_span": "chronic systemic inflammatory diseases",
+        "label": "DDF",
+        "start_idx": 1161,
+        "end_idx": 1199
+      },
+      {
+        "location": "abstract",
+        "text_span": "atherosclerosis",
+        "label": "DDF",
+        "start_idx": 1208,
+        "end_idx": 1223
+      },
+      {
+        "location": "abstract",
+        "text_span": "diabetes",
+        "label": "DDF",
+        "start_idx": 1228,
+        "end_idx": 1236
+      },
+      {
+        "location": "abstract",
+        "text_span": "neuropsychiatric disorders",
+        "label": "DDF",
+        "start_idx": 1373,
+        "end_idx": 1399
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 1409,
+        "end_idx": 1419
+      },
+      {
+        "location": "abstract",
+        "text_span": "schizophrenia",
+        "label": "DDF",
+        "start_idx": 1424,
+        "end_idx": 1437
+      },
+      {
+        "location": "abstract",
+        "text_span": "immune system",
+        "label": "anatomical location",
+        "start_idx": 1475,
+        "end_idx": 1488
+      },
+      {
+        "location": "abstract",
+        "text_span": "oral",
+        "label": "anatomical location",
+        "start_idx": 1614,
+        "end_idx": 1618
+      },
+      {
+        "location": "abstract",
+        "text_span": "periodontal",
+        "label": "anatomical location",
+        "start_idx": 1646,
+        "end_idx": 1657
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety",
+        "label": "DDF",
+        "start_idx": 1670,
+        "end_idx": 1677
+      },
+      {
+        "location": "abstract",
+        "text_span": "trauma-",
+        "label": "DDF",
+        "start_idx": 1688,
+        "end_idx": 1695
+      },
+      {
+        "location": "abstract",
+        "text_span": "stress-related disorders",
+        "label": "DDF",
+        "start_idx": 1700,
+        "end_idx": 1724
+      },
+      {
+        "location": "abstract",
+        "text_span": "periodontal",
+        "label": "anatomical location",
+        "start_idx": 1750,
+        "end_idx": 1761
+      },
+      {
+        "location": "abstract",
+        "text_span": "oral",
+        "label": "anatomical location",
+        "start_idx": 1910,
+        "end_idx": 1914
+      },
+      {
+        "location": "abstract",
+        "text_span": "central nervous system",
+        "label": "anatomical location",
+        "start_idx": 1934,
+        "end_idx": 1956
+      },
+      {
+        "location": "abstract",
+        "text_span": "oral",
+        "label": "anatomical location",
+        "start_idx": 2000,
+        "end_idx": 2004
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "33935741": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 115,
+        "end_idx": 118
+      },
+      {
+        "location": "title",
+        "text_span": "GABA",
+        "label": "chemical",
+        "start_idx": 143,
+        "end_idx": 147
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 47,
+        "end_idx": 50
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 100,
+        "end_idx": 109
+      },
+      {
+        "location": "abstract",
+        "text_span": "central nervous system",
+        "label": "anatomical location",
+        "start_idx": 172,
+        "end_idx": 194
+      },
+      {
+        "location": "abstract",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 196,
+        "end_idx": 199
+      },
+      {
+        "location": "abstract",
+        "text_span": "gamma aminobutyric acid",
+        "label": "chemical",
+        "start_idx": 225,
+        "end_idx": 248
+      },
+      {
+        "location": "abstract",
+        "text_span": "GABA",
+        "label": "chemical",
+        "start_idx": 250,
+        "end_idx": 254
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 280,
+        "end_idx": 289
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 517,
+        "end_idx": 527
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 675,
+        "end_idx": 678
+      },
+      {
+        "location": "abstract",
+        "text_span": "depressive",
+        "label": "DDF",
+        "start_idx": 732,
+        "end_idx": 742
+      },
+      {
+        "location": "abstract",
+        "text_span": "sucrose",
+        "label": "chemical",
+        "start_idx": 871,
+        "end_idx": 878
+      },
+      {
+        "location": "abstract",
+        "text_span": "tail",
+        "label": "anatomical location",
+        "start_idx": 896,
+        "end_idx": 900
+      },
+      {
+        "location": "abstract",
+        "text_span": "Fatigue",
+        "label": "DDF",
+        "start_idx": 939,
+        "end_idx": 946
+      },
+      {
+        "location": "abstract",
+        "text_span": "Fecal samples",
+        "label": "anatomical location",
+        "start_idx": 1128,
+        "end_idx": 1141
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 1185,
+        "end_idx": 1195
+      },
+      {
+        "location": "abstract",
+        "text_span": "Serum",
+        "label": "anatomical location",
+        "start_idx": 1248,
+        "end_idx": 1253
+      },
+      {
+        "location": "abstract",
+        "text_span": "GABA",
+        "label": "chemical",
+        "start_idx": 1263,
+        "end_idx": 1267
+      },
+      {
+        "location": "abstract",
+        "text_span": "GluR1",
+        "label": "gene",
+        "start_idx": 1352,
+        "end_idx": 1357
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "38463411": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Olanzapine",
+        "label": "drug",
+        "start_idx": 63,
+        "end_idx": 73
+      },
+      {
+        "location": "title",
+        "text_span": "Weight Gain",
+        "label": "DDF",
+        "start_idx": 82,
+        "end_idx": 93
+      },
+      {
+        "location": "abstract",
+        "text_span": "psychiatric disorders",
+        "label": "DDF",
+        "start_idx": 96,
+        "end_idx": 117
+      },
+      {
+        "location": "abstract",
+        "text_span": "weight gain",
+        "label": "DDF",
+        "start_idx": 730,
+        "end_idx": 741
+      },
+      {
+        "location": "abstract",
+        "text_span": "patients",
+        "label": "human",
+        "start_idx": 1188,
+        "end_idx": 1196
+      },
+      {
+        "location": "abstract",
+        "text_span": "diabetes",
+        "label": "DDF",
+        "start_idx": 976,
+        "end_idx": 984
+      },
+      {
+        "location": "abstract",
+        "text_span": "obesity",
+        "label": "DDF",
+        "start_idx": 986,
+        "end_idx": 993
+      },
+      {
+        "location": "abstract",
+        "text_span": "chronic inflammatory diseases",
+        "label": "DDF",
+        "start_idx": 1018,
+        "end_idx": 1047
+      },
+      {
+        "location": "abstract",
+        "text_span": "hyperglycemia",
+        "label": "DDF",
+        "start_idx": 1644,
+        "end_idx": 1657
+      },
+      {
+        "location": "abstract",
+        "text_span": "inflammation",
+        "label": "DDF",
+        "start_idx": 1684,
+        "end_idx": 1696
+      },
+      {
+        "location": "abstract",
+        "text_span": "psychiatric",
+        "label": "DDF",
+        "start_idx": 1766,
+        "end_idx": 1777
+      },
+      {
+        "location": "abstract",
+        "text_span": "weight gain",
+        "label": "DDF",
+        "start_idx": 1868,
+        "end_idx": 1879
+      },
+      {
+        "location": "abstract",
+        "text_span": "metabolic",
+        "label": "DDF",
+        "start_idx": 1884,
+        "end_idx": 1893
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 379,
+        "end_idx": 382
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 412,
+        "end_idx": 421
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 611,
+        "end_idx": 614
+      },
+      {
+        "location": "abstract",
+        "text_span": "insulin",
+        "label": "gene",
+        "start_idx": 1624,
+        "end_idx": 1631
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut barrier",
+        "label": "anatomical location",
+        "start_idx": 1702,
+        "end_idx": 1713
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "36801431": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Fatigue",
+        "label": "DDF",
+        "start_idx": 27,
+        "end_idx": 34
+      },
+      {
+        "location": "abstract",
+        "text_span": "proton pump",
+        "label": "gene",
+        "start_idx": 37,
+        "end_idx": 48
+      },
+      {
+        "location": "abstract",
+        "text_span": "PPIs",
+        "label": "drug",
+        "start_idx": 61,
+        "end_idx": 65
+      },
+      {
+        "location": "abstract",
+        "text_span": "kidney",
+        "label": "anatomical location",
+        "start_idx": 211,
+        "end_idx": 217
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 249,
+        "end_idx": 252
+      },
+      {
+        "location": "abstract",
+        "text_span": "chronic fatigue",
+        "label": "DDF",
+        "start_idx": 351,
+        "end_idx": 366
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 458,
+        "end_idx": 465
+      },
+      {
+        "location": "abstract",
+        "text_span": "Kidney",
+        "label": "anatomical location",
+        "start_idx": 560,
+        "end_idx": 566
+      },
+      {
+        "location": "abstract",
+        "text_span": "Fatigue",
+        "label": "DDF",
+        "start_idx": 735,
+        "end_idx": 742
+      },
+      {
+        "location": "abstract",
+        "text_span": "kidney",
+        "label": "anatomical location",
+        "start_idx": 919,
+        "end_idx": 925
+      },
+      {
+        "location": "abstract",
+        "text_span": "PPI",
+        "label": "drug",
+        "start_idx": 1036,
+        "end_idx": 1039
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 1064,
+        "end_idx": 1071
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 1167,
+        "end_idx": 1174
+      },
+      {
+        "location": "abstract",
+        "text_span": "upper gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 1503,
+        "end_idx": 1525
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 1729,
+        "end_idx": 1736
+      },
+      {
+        "location": "abstract",
+        "text_span": "PPI",
+        "label": "drug",
+        "start_idx": 1814,
+        "end_idx": 1817
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 1855,
+        "end_idx": 1862
+      },
+      {
+        "location": "abstract",
+        "text_span": "kidney",
+        "label": "anatomical location",
+        "start_idx": 1885,
+        "end_idx": 1891
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 1976,
+        "end_idx": 1983
+      },
+      {
+        "location": "abstract",
+        "text_span": "kidney",
+        "label": "anatomical location",
+        "start_idx": 2010,
+        "end_idx": 2016
+      },
+      {
+        "location": "abstract",
+        "text_span": "proton pump",
+        "label": "gene",
+        "start_idx": 2191,
+        "end_idx": 2202
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 2219,
+        "end_idx": 2226
+      },
+      {
+        "location": "abstract",
+        "text_span": "kidney",
+        "label": "anatomical location",
+        "start_idx": 2268,
+        "end_idx": 2274
+      },
+      {
+        "location": "abstract",
+        "text_span": "proton",
+        "label": "gene",
+        "start_idx": 2319,
+        "end_idx": 2325
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 2377,
+        "end_idx": 2384
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 2402,
+        "end_idx": 2409
+      },
+      {
+        "location": "abstract",
+        "text_span": "proton pump",
+        "label": "gene",
+        "start_idx": 2537,
+        "end_idx": 2548
+      },
+      {
+        "location": "abstract",
+        "text_span": "proton pump",
+        "label": "gene",
+        "start_idx": 2635,
+        "end_idx": 2646
+      },
+      {
+        "location": "abstract",
+        "text_span": "fatigue",
+        "label": "DDF",
+        "start_idx": 2714,
+        "end_idx": 2721
+      },
+      {
+        "location": "abstract",
+        "text_span": "kidney",
+        "label": "anatomical location",
+        "start_idx": 2773,
+        "end_idx": 2779
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "kidney transplant recipients",
+        "subject_label": "human",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "human",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "37663891": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 532,
+        "end_idx": 535
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "DDF",
+        "start_idx": 601,
+        "end_idx": 606
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "crews",
+        "object_label": "human"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "33087994": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 6,
+        "end_idx": 9
+      },
+      {
+        "location": "abstract",
+        "text_span": "Faecal",
+        "label": "anatomical location",
+        "start_idx": 414,
+        "end_idx": 420
+      },
+      {
+        "location": "abstract",
+        "text_span": "blood",
+        "label": "anatomical location",
+        "start_idx": 1058,
+        "end_idx": 1063
+      },
+      {
+        "location": "abstract",
+        "text_span": "sugar",
+        "label": "chemical",
+        "start_idx": 1064,
+        "end_idx": 1069
+      },
+      {
+        "location": "abstract",
+        "text_span": "faecal",
+        "label": "anatomical location",
+        "start_idx": 1292,
+        "end_idx": 1298
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 256,
+        "end_idx": 259
+      },
+      {
+        "location": "abstract",
+        "text_span": "obesity",
+        "label": "DDF",
+        "start_idx": 64,
+        "end_idx": 71
+      },
+      {
+        "location": "abstract",
+        "text_span": "obese",
+        "label": "DDF",
+        "start_idx": 274,
+        "end_idx": 279
+      },
+      {
+        "location": "abstract",
+        "text_span": "obese",
+        "label": "DDF",
+        "start_idx": 328,
+        "end_idx": 333
+      },
+      {
+        "location": "abstract",
+        "text_span": "obesity",
+        "label": "DDF",
+        "start_idx": 149,
+        "end_idx": 156
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "humans",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "faecal microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "patients",
+        "object_label": "human"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "32399169": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Parkinson's Disease",
+        "label": "DDF",
+        "start_idx": 41,
+        "end_idx": 60
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 95,
+        "end_idx": 98
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 136,
+        "end_idx": 155
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 256,
+        "end_idx": 275
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 623,
+        "end_idx": 625
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 659,
+        "end_idx": 661
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 819,
+        "end_idx": 821
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 1180,
+        "end_idx": 1182
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 1319,
+        "end_idx": 1321
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 1554,
+        "end_idx": 1556
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38078745": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 31,
+        "end_idx": 50
+      },
+      {
+        "location": "title",
+        "text_span": "Parkinsonian",
+        "label": "DDF",
+        "start_idx": 66,
+        "end_idx": 78
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 0,
+        "end_idx": 19
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 21,
+        "end_idx": 23
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 164,
+        "end_idx": 174
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety",
+        "label": "DDF",
+        "start_idx": 180,
+        "end_idx": 187
+      },
+      {
+        "location": "abstract",
+        "text_span": "constipation",
+        "label": "DDF",
+        "start_idx": 1176,
+        "end_idx": 1188
+      },
+      {
+        "location": "abstract",
+        "text_span": "ileum",
+        "label": "anatomical location",
+        "start_idx": 1285,
+        "end_idx": 1290
+      },
+      {
+        "location": "abstract",
+        "text_span": "constipation",
+        "label": "DDF",
+        "start_idx": 1331,
+        "end_idx": 1343
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 1769,
+        "end_idx": 1788
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 1790,
+        "end_idx": 1792
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1970,
+        "end_idx": 1973
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 2028,
+        "end_idx": 2030
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 2046,
+        "end_idx": 2048
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 2084,
+        "end_idx": 2087
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 2177,
+        "end_idx": 2179
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 2296,
+        "end_idx": 2298
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 2367,
+        "end_idx": 2370
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "34789332": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "amyotrophic lateral sclerosis",
+        "label": "DDF",
+        "start_idx": 84,
+        "end_idx": 113
+      },
+      {
+        "location": "abstract",
+        "text_span": "Amyotrophic lateral sclerosis",
+        "label": "DDF",
+        "start_idx": 0,
+        "end_idx": 29
+      },
+      {
+        "location": "abstract",
+        "text_span": "ALS",
+        "label": "DDF",
+        "start_idx": 31,
+        "end_idx": 34
+      },
+      {
+        "location": "abstract",
+        "text_span": "progressive neurodegenerative disease",
+        "label": "DDF",
+        "start_idx": 41,
+        "end_idx": 78
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 150,
+        "end_idx": 155
+      },
+      {
+        "location": "abstract",
+        "text_span": "spinal cord",
+        "label": "anatomical location",
+        "start_idx": 160,
+        "end_idx": 171
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodegenerative conditions",
+        "label": "DDF",
+        "start_idx": 634,
+        "end_idx": 662
+      },
+      {
+        "location": "abstract",
+        "text_span": "ALS",
+        "label": "DDF",
+        "start_idx": 674,
+        "end_idx": 677
+      },
+      {
+        "location": "abstract",
+        "text_span": "Alzheimer's disease",
+        "label": "DDF",
+        "start_idx": 679,
+        "end_idx": 698
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 700,
+        "end_idx": 719
+      },
+      {
+        "location": "abstract",
+        "text_span": "Huntington's disease",
+        "label": "DDF",
+        "start_idx": 721,
+        "end_idx": 741
+      },
+      {
+        "location": "abstract",
+        "text_span": "Charcot-Marie-Tooth disease",
+        "label": "DDF",
+        "start_idx": 746,
+        "end_idx": 773
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "30747427": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 12,
+        "end_idx": 15
+      },
+      {
+        "location": "abstract",
+        "text_span": "Autism spectrum disorder",
+        "label": "DDF",
+        "start_idx": 0,
+        "end_idx": 24
+      },
+      {
+        "location": "abstract",
+        "text_span": "ASD",
+        "label": "DDF",
+        "start_idx": 26,
+        "end_idx": 29
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodevelopmental or neuropsychiatric disorder",
+        "label": "DDF",
+        "start_idx": 43,
+        "end_idx": 90
+      },
+      {
+        "location": "abstract",
+        "text_span": "autism",
+        "label": "DDF",
+        "start_idx": 306,
+        "end_idx": 312
+      },
+      {
+        "location": "abstract",
+        "text_span": "autism",
+        "label": "DDF",
+        "start_idx": 390,
+        "end_idx": 396
+      },
+      {
+        "location": "abstract",
+        "text_span": "psychiatric illness",
+        "label": "DDF",
+        "start_idx": 533,
+        "end_idx": 552
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 558,
+        "end_idx": 574
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 590,
+        "end_idx": 593
+      },
+      {
+        "location": "abstract",
+        "text_span": "glutathione",
+        "label": "chemical",
+        "start_idx": 746,
+        "end_idx": 757
+      },
+      {
+        "location": "abstract",
+        "text_span": "amino acid",
+        "label": "chemical",
+        "start_idx": 770,
+        "end_idx": 780
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 845,
+        "end_idx": 854
+      },
+      {
+        "location": "abstract",
+        "text_span": "autism",
+        "label": "DDF",
+        "start_idx": 863,
+        "end_idx": 869
+      },
+      {
+        "location": "abstract",
+        "text_span": "psychiatric impairment",
+        "label": "DDF",
+        "start_idx": 917,
+        "end_idx": 939
+      },
+      {
+        "location": "abstract",
+        "text_span": "mental disorder",
+        "label": "DDF",
+        "start_idx": 969,
+        "end_idx": 984
+      },
+      {
+        "location": "abstract",
+        "text_span": "autism",
+        "label": "DDF",
+        "start_idx": 1049,
+        "end_idx": 1055
+      },
+      {
+        "location": "abstract",
+        "text_span": "autism",
+        "label": "DDF",
+        "start_idx": 1187,
+        "end_idx": 1193
+      },
+      {
+        "location": "abstract",
+        "text_span": "Gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 1208,
+        "end_idx": 1224
+      },
+      {
+        "location": "abstract",
+        "text_span": "autism",
+        "label": "DDF",
+        "start_idx": 1276,
+        "end_idx": 1282
+      },
+      {
+        "location": "abstract",
+        "text_span": "psychiatric disorder",
+        "label": "DDF",
+        "start_idx": 1319,
+        "end_idx": 1339
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 1405,
+        "end_idx": 1421
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1546,
+        "end_idx": 1549
+      },
+      {
+        "location": "abstract",
+        "text_span": "Crohn's disease",
+        "label": "DDF",
+        "start_idx": 1567,
+        "end_idx": 1582
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "33181474": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "inflammation",
+        "label": "DDF",
+        "start_idx": 1063,
+        "end_idx": 1075
+      },
+      {
+        "location": "abstract",
+        "text_span": "OSAS",
+        "label": "DDF",
+        "start_idx": 1442,
+        "end_idx": 1446
+      },
+      {
+        "location": "abstract",
+        "text_span": "inflammation",
+        "label": "DDF",
+        "start_idx": 1541,
+        "end_idx": 1553
+      },
+      {
+        "location": "abstract",
+        "text_span": "OSAS",
+        "label": "DDF",
+        "start_idx": 1719,
+        "end_idx": 1723
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 526,
+        "end_idx": 529
+      },
+      {
+        "location": "abstract",
+        "text_span": "Stool samples",
+        "label": "anatomical location",
+        "start_idx": 595,
+        "end_idx": 608
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 659,
+        "end_idx": 662
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut barrier",
+        "label": "anatomical location",
+        "start_idx": 1246,
+        "end_idx": 1257
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut barrier",
+        "label": "anatomical location",
+        "start_idx": 1558,
+        "end_idx": 1569
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1701,
+        "end_idx": 1704
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "33066107": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Prader-Willi Syndrome",
+        "label": "DDF",
+        "start_idx": 120,
+        "end_idx": 141
+      },
+      {
+        "location": "abstract",
+        "text_span": "Prader-Willi syndrome",
+        "label": "DDF",
+        "start_idx": 0,
+        "end_idx": 21
+      },
+      {
+        "location": "abstract",
+        "text_span": "PWS",
+        "label": "DDF",
+        "start_idx": 23,
+        "end_idx": 26
+      },
+      {
+        "location": "abstract",
+        "text_span": "genetic disorder",
+        "label": "DDF",
+        "start_idx": 38,
+        "end_idx": 54
+      },
+      {
+        "location": "abstract",
+        "text_span": "obesity",
+        "label": "DDF",
+        "start_idx": 123,
+        "end_idx": 130
+      },
+      {
+        "location": "abstract",
+        "text_span": "hyperphagia",
+        "label": "DDF",
+        "start_idx": 132,
+        "end_idx": 143
+      },
+      {
+        "location": "abstract",
+        "text_span": "adults",
+        "label": "anatomical location",
+        "start_idx": 282,
+        "end_idx": 288
+      },
+      {
+        "location": "abstract",
+        "text_span": "simple obesity",
+        "label": "DDF",
+        "start_idx": 294,
+        "end_idx": 308
+      },
+      {
+        "location": "abstract",
+        "text_span": "PWS",
+        "label": "DDF",
+        "start_idx": 354,
+        "end_idx": 357
+      },
+      {
+        "location": "abstract",
+        "text_span": "BPL1",
+        "label": "chemical",
+        "start_idx": 482,
+        "end_idx": 486
+      },
+      {
+        "location": "abstract",
+        "text_span": "BPL1",
+        "label": "chemical",
+        "start_idx": 506,
+        "end_idx": 510
+      },
+      {
+        "location": "abstract",
+        "text_span": "BPL1",
+        "label": "chemical",
+        "start_idx": 589,
+        "end_idx": 593
+      },
+      {
+        "location": "abstract",
+        "text_span": "hyperphagia",
+        "label": "DDF",
+        "start_idx": 872,
+        "end_idx": 883
+      },
+      {
+        "location": "abstract",
+        "text_span": "abdominal",
+        "label": "anatomical location",
+        "start_idx": 1072,
+        "end_idx": 1081
+      },
+      {
+        "location": "abstract",
+        "text_span": "insulin",
+        "label": "gene",
+        "start_idx": 1178,
+        "end_idx": 1185
+      },
+      {
+        "location": "abstract",
+        "text_span": "insulin",
+        "label": "gene",
+        "start_idx": 1204,
+        "end_idx": 1211
+      },
+      {
+        "location": "abstract",
+        "text_span": "PWS",
+        "label": "DDF",
+        "start_idx": 1469,
+        "end_idx": 1472
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "intestinal microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "children and adolescents",
+        "object_label": "human"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "37714308": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 38,
+        "end_idx": 54
+      },
+      {
+        "location": "title",
+        "text_span": "multiple system atrophy",
+        "label": "DDF",
+        "start_idx": 71,
+        "end_idx": 94
+      },
+      {
+        "location": "abstract",
+        "text_span": "progressive neurodegenerative disorder",
+        "label": "DDF",
+        "start_idx": 41,
+        "end_idx": 79
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 226,
+        "end_idx": 242
+      },
+      {
+        "location": "abstract",
+        "text_span": "GI",
+        "label": "anatomical location",
+        "start_idx": 244,
+        "end_idx": 246
+      },
+      {
+        "location": "abstract",
+        "text_span": "system",
+        "label": "anatomical location",
+        "start_idx": 248,
+        "end_idx": 254
+      },
+      {
+        "location": "abstract",
+        "text_span": "abdominal",
+        "label": "anatomical location",
+        "start_idx": 287,
+        "end_idx": 296
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastric",
+        "label": "anatomical location",
+        "start_idx": 332,
+        "end_idx": 339
+      },
+      {
+        "location": "abstract",
+        "text_span": "GI",
+        "label": "anatomical location",
+        "start_idx": 395,
+        "end_idx": 397
+      },
+      {
+        "location": "abstract",
+        "text_span": "dysfunctions",
+        "label": "DDF",
+        "start_idx": 398,
+        "end_idx": 410
+      },
+      {
+        "location": "abstract",
+        "text_span": "MSA",
+        "label": "DDF",
+        "start_idx": 414,
+        "end_idx": 417
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 463,
+        "end_idx": 466
+      },
+      {
+        "location": "abstract",
+        "text_span": "GI tract",
+        "label": "anatomical location",
+        "start_idx": 549,
+        "end_idx": 557
+      },
+      {
+        "location": "abstract",
+        "text_span": "enteric nervous system",
+        "label": "anatomical location",
+        "start_idx": 571,
+        "end_idx": 593
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal barrier",
+        "label": "anatomical location",
+        "start_idx": 599,
+        "end_idx": 617
+      },
+      {
+        "location": "abstract",
+        "text_span": "GI",
+        "label": "anatomical location",
+        "start_idx": 619,
+        "end_idx": 621
+      },
+      {
+        "location": "abstract",
+        "text_span": "GI",
+        "label": "anatomical location",
+        "start_idx": 640,
+        "end_idx": 642
+      },
+      {
+        "location": "abstract",
+        "text_span": "MSA",
+        "label": "DDF",
+        "start_idx": 684,
+        "end_idx": 687
+      },
+      {
+        "location": "abstract",
+        "text_span": "GI",
+        "label": "anatomical location",
+        "start_idx": 696,
+        "end_idx": 698
+      },
+      {
+        "location": "abstract",
+        "text_span": "GI",
+        "label": "anatomical location",
+        "start_idx": 832,
+        "end_idx": 834
+      },
+      {
+        "location": "abstract",
+        "text_span": "MSA",
+        "label": "DDF",
+        "start_idx": 850,
+        "end_idx": 853
+      },
+      {
+        "location": "abstract",
+        "text_span": "GI",
+        "label": "anatomical location",
+        "start_idx": 968,
+        "end_idx": 970
+      },
+      {
+        "location": "abstract",
+        "text_span": "MSA",
+        "label": "DDF",
+        "start_idx": 997,
+        "end_idx": 1000
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "37305758": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 46,
+        "end_idx": 56
+      },
+      {
+        "location": "title",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 85,
+        "end_idx": 104
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 21,
+        "end_idx": 23
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodegenerative disease",
+        "label": "DDF",
+        "start_idx": 50,
+        "end_idx": 75
+      },
+      {
+        "location": "abstract",
+        "text_span": "α-synuclein",
+        "label": "gene",
+        "start_idx": 227,
+        "end_idx": 238
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 260,
+        "end_idx": 262
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 379,
+        "end_idx": 388
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 412,
+        "end_idx": 422
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal epithelial barrier",
+        "label": "anatomical location",
+        "start_idx": 464,
+        "end_idx": 493
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 495,
+        "end_idx": 505
+      },
+      {
+        "location": "abstract",
+        "text_span": "α-synuclein",
+        "label": "gene",
+        "start_idx": 563,
+        "end_idx": 574
+      },
+      {
+        "location": "abstract",
+        "text_span": "enteric nervous system",
+        "label": "anatomical location",
+        "start_idx": 584,
+        "end_idx": 606
+      },
+      {
+        "location": "abstract",
+        "text_span": "ENS",
+        "label": "anatomical location",
+        "start_idx": 608,
+        "end_idx": 611
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 620,
+        "end_idx": 625
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 673,
+        "end_idx": 689
+      },
+      {
+        "location": "abstract",
+        "text_span": "central nervous system",
+        "label": "anatomical location",
+        "start_idx": 751,
+        "end_idx": 773
+      },
+      {
+        "location": "abstract",
+        "text_span": "CNS",
+        "label": "anatomical location",
+        "start_idx": 775,
+        "end_idx": 778
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 814,
+        "end_idx": 823
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 938,
+        "end_idx": 947
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 976,
+        "end_idx": 978
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 1008,
+        "end_idx": 1018
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 1045,
+        "end_idx": 1055
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 1074,
+        "end_idx": 1090
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 1106,
+        "end_idx": 1108
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "31158941": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 8,
+        "end_idx": 11
+      },
+      {
+        "location": "title",
+        "text_span": "Parkinson's Disease",
+        "label": "DDF",
+        "start_idx": 51,
+        "end_idx": 70
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 0,
+        "end_idx": 19
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 21,
+        "end_idx": 23
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodegenerative disorder",
+        "label": "DDF",
+        "start_idx": 37,
+        "end_idx": 63
+      },
+      {
+        "location": "abstract",
+        "text_span": "α-synuclein",
+        "label": "gene",
+        "start_idx": 210,
+        "end_idx": 221
+      },
+      {
+        "location": "abstract",
+        "text_span": "enteric nervous system",
+        "label": "anatomical location",
+        "start_idx": 277,
+        "end_idx": 299
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 338,
+        "end_idx": 343
+      },
+      {
+        "location": "abstract",
+        "text_span": "vagus nerve",
+        "label": "anatomical location",
+        "start_idx": 376,
+        "end_idx": 387
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 614,
+        "end_idx": 630
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 645,
+        "end_idx": 648
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 762,
+        "end_idx": 765
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 814,
+        "end_idx": 817
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 845,
+        "end_idx": 848
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "34485176": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Frailty",
+        "label": "DDF",
+        "start_idx": 58,
+        "end_idx": 65
+      },
+      {
+        "location": "abstract",
+        "text_span": "geriatric syndrome",
+        "label": "DDF",
+        "start_idx": 20,
+        "end_idx": 38
+      },
+      {
+        "location": "abstract",
+        "text_span": "frailty",
+        "label": "DDF",
+        "start_idx": 115,
+        "end_idx": 122
+      },
+      {
+        "location": "abstract",
+        "text_span": "frailty",
+        "label": "DDF",
+        "start_idx": 908,
+        "end_idx": 915
+      },
+      {
+        "location": "abstract",
+        "text_span": "frailty",
+        "label": "DDF",
+        "start_idx": 2254,
+        "end_idx": 2261
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parabacteroides",
+        "label": "bacteria",
+        "start_idx": 1310,
+        "end_idx": 1325
+      },
+      {
+        "location": "abstract",
+        "text_span": "frailty",
+        "label": "DDF",
+        "start_idx": 1626,
+        "end_idx": 1633
+      },
+      {
+        "location": "abstract",
+        "text_span": "IL-6",
+        "label": "gene",
+        "start_idx": 1767,
+        "end_idx": 1771
+      },
+      {
+        "location": "abstract",
+        "text_span": "IL-6",
+        "label": "gene",
+        "start_idx": 1876,
+        "end_idx": 1880
+      },
+      {
+        "location": "abstract",
+        "text_span": "HGMB1",
+        "label": "gene",
+        "start_idx": 1943,
+        "end_idx": 1948
+      },
+      {
+        "location": "abstract",
+        "text_span": "serum",
+        "label": "anatomical location",
+        "start_idx": 2019,
+        "end_idx": 2024
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 2059,
+        "end_idx": 2069
+      },
+      {
+        "location": "abstract",
+        "text_span": "Frailty",
+        "label": "DDF",
+        "start_idx": 2084,
+        "end_idx": 2091
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal",
+        "label": "anatomical location",
+        "start_idx": 2145,
+        "end_idx": 2150
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "28901279": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Depressive Illness",
+        "label": "DDF",
+        "start_idx": 57,
+        "end_idx": 75
+      },
+      {
+        "location": "abstract",
+        "text_span": "Major depression",
+        "label": "DDF",
+        "start_idx": 124,
+        "end_idx": 140
+      },
+      {
+        "location": "abstract",
+        "text_span": "depressive illness",
+        "label": "DDF",
+        "start_idx": 313,
+        "end_idx": 331
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 421,
+        "end_idx": 431
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 721,
+        "end_idx": 731
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 888,
+        "end_idx": 898
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 1313,
+        "end_idx": 1323
+      },
+      {
+        "location": "abstract",
+        "text_span": "depressive illness",
+        "label": "DDF",
+        "start_idx": 1427,
+        "end_idx": 1445
+      },
+      {
+        "location": "abstract",
+        "text_span": "depressive illness",
+        "label": "DDF",
+        "start_idx": 1735,
+        "end_idx": 1753
+      },
+      {
+        "location": "abstract",
+        "text_span": "hypothalamic-pituitary-adrenal axis",
+        "label": "anatomical location",
+        "start_idx": 509,
+        "end_idx": 544
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 558,
+        "end_idx": 563
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 659,
+        "end_idx": 662
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "35994167": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "sporadic Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 8,
+        "end_idx": 36
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 277,
+        "end_idx": 293
+      },
+      {
+        "location": "abstract",
+        "text_span": "organ systems",
+        "label": "anatomical location",
+        "start_idx": 502,
+        "end_idx": 515
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "35399136": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Intestinal",
+        "label": "anatomical location",
+        "start_idx": 0,
+        "end_idx": 10
+      },
+      {
+        "location": "title",
+        "text_span": "Dopamine",
+        "label": "chemical",
+        "start_idx": 11,
+        "end_idx": 19
+      },
+      {
+        "location": "title",
+        "text_span": "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+        "label": "chemical",
+        "start_idx": 72,
+        "end_idx": 116
+      },
+      {
+        "location": "title",
+        "text_span": "Dopaminergic Neurodegeneration",
+        "label": "DDF",
+        "start_idx": 125,
+        "end_idx": 155
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal",
+        "label": "anatomical location",
+        "start_idx": 40,
+        "end_idx": 56
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 117,
+        "end_idx": 136
+      },
+      {
+        "location": "abstract",
+        "text_span": "PD",
+        "label": "DDF",
+        "start_idx": 138,
+        "end_idx": 140
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 264,
+        "end_idx": 274
+      },
+      {
+        "location": "abstract",
+        "text_span": "dopamine",
+        "label": "chemical",
+        "start_idx": 275,
+        "end_idx": 283
+      },
+      {
+        "location": "abstract",
+        "text_span": "DRD2",
+        "label": "gene",
+        "start_idx": 297,
+        "end_idx": 301
+      },
+      {
+        "location": "abstract",
+        "text_span": "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+        "label": "chemical",
+        "start_idx": 328,
+        "end_idx": 372
+      },
+      {
+        "location": "abstract",
+        "text_span": "MPTP",
+        "label": "chemical",
+        "start_idx": 374,
+        "end_idx": 378
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodegeneration",
+        "label": "DDF",
+        "start_idx": 401,
+        "end_idx": 418
+      },
+      {
+        "location": "abstract",
+        "text_span": "Dopamine/dopamine",
+        "label": "chemical",
+        "start_idx": 420,
+        "end_idx": 437
+      },
+      {
+        "location": "abstract",
+        "text_span": "colon",
+        "label": "anatomical location",
+        "start_idx": 461,
+        "end_idx": 466
+      },
+      {
+        "location": "abstract",
+        "text_span": "Drd2",
+        "label": "gene",
+        "start_idx": 512,
+        "end_idx": 516
+      },
+      {
+        "location": "abstract",
+        "text_span": "Drd4",
+        "label": "gene",
+        "start_idx": 526,
+        "end_idx": 530
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal epithelium",
+        "label": "anatomical location",
+        "start_idx": 539,
+        "end_idx": 560
+      },
+      {
+        "location": "abstract",
+        "text_span": "substantia nigra",
+        "label": "anatomical location",
+        "start_idx": 619,
+        "end_idx": 635
+      },
+      {
+        "location": "abstract",
+        "text_span": "MPTP",
+        "label": "chemical",
+        "start_idx": 646,
+        "end_idx": 650
+      },
+      {
+        "location": "abstract",
+        "text_span": "succinate",
+        "label": "chemical",
+        "start_idx": 713,
+        "end_idx": 722
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 756,
+        "end_idx": 759
+      },
+      {
+        "location": "abstract",
+        "text_span": "succinate",
+        "label": "chemical",
+        "start_idx": 790,
+        "end_idx": 799
+      },
+      {
+        "location": "abstract",
+        "text_span": "MPTP",
+        "label": "chemical",
+        "start_idx": 850,
+        "end_idx": 854
+      },
+      {
+        "location": "abstract",
+        "text_span": "mitochondrial membrane",
+        "label": "anatomical location",
+        "start_idx": 885,
+        "end_idx": 907
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "intestinal microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Drd2",
+        "subject_label": "gene",
+        "predicate": "located in",
+        "object_text_span": "intestinal epithelium",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "Alleoprevotella",
+        "subject_label": "chemical",
+        "predicate": "produced by",
+        "object_text_span": "gut microbiota",
+        "object_label": "anatomical location"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      },
+      {
+        "subject_label": "gene",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_label": "chemical",
+        "predicate": "produced by",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "32495743": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 40,
+        "end_idx": 43
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 63,
+        "end_idx": 68
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 83,
+        "end_idx": 92
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 185,
+        "end_idx": 188
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 304,
+        "end_idx": 309
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety",
+        "label": "DDF",
+        "start_idx": 345,
+        "end_idx": 352
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 371,
+        "end_idx": 380
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal",
+        "label": "anatomical location",
+        "start_idx": 473,
+        "end_idx": 478
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 544,
+        "end_idx": 554
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety symptoms",
+        "label": "DDF",
+        "start_idx": 559,
+        "end_idx": 575
+      },
+      {
+        "location": "abstract",
+        "text_span": "gastrointestinal (GI) tract",
+        "label": "anatomical location",
+        "start_idx": 596,
+        "end_idx": 623
+      },
+      {
+        "location": "abstract",
+        "text_span": "FMT",
+        "label": "biomedical technique",
+        "start_idx": 781,
+        "end_idx": 784
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 826,
+        "end_idx": 829
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety symptoms",
+        "label": "DDF",
+        "start_idx": 941,
+        "end_idx": 957
+      },
+      {
+        "location": "abstract",
+        "text_span": "MET-2",
+        "label": "chemical",
+        "start_idx": 1002,
+        "end_idx": 1007
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1140,
+        "end_idx": 1143
+      },
+      {
+        "location": "abstract",
+        "text_span": "MET-2",
+        "label": "chemical",
+        "start_idx": 1185,
+        "end_idx": 1190
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression/anxiety",
+        "label": "DDF",
+        "start_idx": 1241,
+        "end_idx": 1259
+      },
+      {
+        "location": "abstract",
+        "text_span": "depressive",
+        "label": "DDF",
+        "start_idx": 1311,
+        "end_idx": 1321
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety symptoms",
+        "label": "DDF",
+        "start_idx": 1325,
+        "end_idx": 1341
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety",
+        "label": "DDF",
+        "start_idx": 1690,
+        "end_idx": 1697
+      },
+      {
+        "location": "abstract",
+        "text_span": "GI",
+        "label": "anatomical location",
+        "start_idx": 1703,
+        "end_idx": 1705
+      },
+      {
+        "location": "abstract",
+        "text_span": "blood",
+        "label": "anatomical location",
+        "start_idx": 1805,
+        "end_idx": 1810
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "intestinal microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "participants",
+        "object_label": "human"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "human"
+      }
+    ]
+  },
+  "31736803": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "bipolar disorder",
+        "label": "DDF",
+        "start_idx": 17,
+        "end_idx": 33
+      },
+      {
+        "location": "abstract",
+        "text_span": "bipolar depression",
+        "label": "DDF",
+        "start_idx": 197,
+        "end_idx": 215
+      },
+      {
+        "location": "abstract",
+        "text_span": "BD",
+        "label": "DDF",
+        "start_idx": 217,
+        "end_idx": 219
+      },
+      {
+        "location": "abstract",
+        "text_span": "quetiapine",
+        "label": "drug",
+        "start_idx": 255,
+        "end_idx": 265
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 307,
+        "end_idx": 312
+      },
+      {
+        "location": "abstract",
+        "text_span": "immune",
+        "label": "anatomical location",
+        "start_idx": 317,
+        "end_idx": 323
+      },
+      {
+        "location": "abstract",
+        "text_span": "BD",
+        "label": "DDF",
+        "start_idx": 359,
+        "end_idx": 361
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 424,
+        "end_idx": 434
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 476,
+        "end_idx": 486
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal",
+        "label": "anatomical location",
+        "start_idx": 522,
+        "end_idx": 527
+      },
+      {
+        "location": "abstract",
+        "text_span": "immune",
+        "label": "anatomical location",
+        "start_idx": 660,
+        "end_idx": 666
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 730,
+        "end_idx": 735
+      },
+      {
+        "location": "abstract",
+        "text_span": "BD",
+        "label": "DDF",
+        "start_idx": 750,
+        "end_idx": 752
+      },
+      {
+        "location": "abstract",
+        "text_span": "quetiapine",
+        "label": "drug",
+        "start_idx": 771,
+        "end_idx": 781
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal",
+        "label": "anatomical location",
+        "start_idx": 839,
+        "end_idx": 844
+      },
+      {
+        "location": "abstract",
+        "text_span": "immune",
+        "label": "anatomical location",
+        "start_idx": 860,
+        "end_idx": 866
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain-gut",
+        "label": "anatomical location",
+        "start_idx": 939,
+        "end_idx": 948
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 1142,
+        "end_idx": 1145
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 1161,
+        "end_idx": 1166
+      },
+      {
+        "location": "abstract",
+        "text_span": "immune",
+        "label": "anatomical location",
+        "start_idx": 1357,
+        "end_idx": 1363
+      },
+      {
+        "location": "abstract",
+        "text_span": "CB",
+        "label": "statistical technique",
+        "start_idx": 1413,
+        "end_idx": 1415
+      },
+      {
+        "location": "abstract",
+        "text_span": "BD",
+        "label": "DDF",
+        "start_idx": 1505,
+        "end_idx": 1507
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 2028,
+        "end_idx": 2031
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 2067,
+        "end_idx": 2072
+      },
+      {
+        "location": "abstract",
+        "text_span": "BD",
+        "label": "DDF",
+        "start_idx": 2098,
+        "end_idx": 2100
+      },
+      {
+        "location": "abstract",
+        "text_span": "Quetiapine",
+        "label": "drug",
+        "start_idx": 2111,
+        "end_idx": 2121
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 2150,
+        "end_idx": 2160
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 2195,
+        "end_idx": 2198
+      },
+      {
+        "location": "abstract",
+        "text_span": "patients",
+        "label": "human",
+        "start_idx": 2213,
+        "end_idx": 2221
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "37400661": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Isoalantolactone",
+        "label": "chemical",
+        "start_idx": 0,
+        "end_idx": 16
+      },
+      {
+        "location": "title",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 26,
+        "end_idx": 36
+      },
+      {
+        "location": "title",
+        "text_span": "gut-brain axis",
+        "label": "anatomical location",
+        "start_idx": 103,
+        "end_idx": 117
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 18,
+        "end_idx": 28
+      },
+      {
+        "location": "abstract",
+        "text_span": "Isoalantolactone",
+        "label": "chemical",
+        "start_idx": 231,
+        "end_idx": 247
+      },
+      {
+        "location": "abstract",
+        "text_span": "LAT",
+        "label": "chemical",
+        "start_idx": 249,
+        "end_idx": 252
+      },
+      {
+        "location": "abstract",
+        "text_span": "anhedonia",
+        "label": "DDF",
+        "start_idx": 344,
+        "end_idx": 353
+      },
+      {
+        "location": "abstract",
+        "text_span": "fluoxetine",
+        "label": "drug",
+        "start_idx": 391,
+        "end_idx": 401
+      },
+      {
+        "location": "abstract",
+        "text_span": "serotonin",
+        "label": "chemical",
+        "start_idx": 415,
+        "end_idx": 424
+      },
+      {
+        "location": "abstract",
+        "text_span": "LAT",
+        "label": "chemical",
+        "start_idx": 475,
+        "end_idx": 478
+      },
+      {
+        "location": "abstract",
+        "text_span": "fluoxetine",
+        "label": "drug",
+        "start_idx": 483,
+        "end_idx": 493
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 497,
+        "end_idx": 507
+      },
+      {
+        "location": "abstract",
+        "text_span": "postsynaptic density",
+        "label": "gene",
+        "start_idx": 599,
+        "end_idx": 619
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain derived neurotrophic factor",
+        "label": "gene",
+        "start_idx": 629,
+        "end_idx": 662
+      },
+      {
+        "location": "abstract",
+        "text_span": "BDNF",
+        "label": "gene",
+        "start_idx": 664,
+        "end_idx": 668
+      },
+      {
+        "location": "abstract",
+        "text_span": "glutamate",
+        "label": "chemical",
+        "start_idx": 675,
+        "end_idx": 684
+      },
+      {
+        "location": "abstract",
+        "text_span": "GluA1",
+        "label": "gene",
+        "start_idx": 705,
+        "end_idx": 710
+      },
+      {
+        "location": "abstract",
+        "text_span": "prefrontal cortex",
+        "label": "anatomical location",
+        "start_idx": 719,
+        "end_idx": 736
+      },
+      {
+        "location": "abstract",
+        "text_span": "LAT",
+        "label": "chemical",
+        "start_idx": 753,
+        "end_idx": 756
+      },
+      {
+        "location": "abstract",
+        "text_span": "LAT",
+        "label": "chemical",
+        "start_idx": 758,
+        "end_idx": 761
+      },
+      {
+        "location": "abstract",
+        "text_span": "IL-6",
+        "label": "gene",
+        "start_idx": 834,
+        "end_idx": 838
+      },
+      {
+        "location": "abstract",
+        "text_span": "TNF-α",
+        "label": "gene",
+        "start_idx": 843,
+        "end_idx": 848
+      },
+      {
+        "location": "abstract",
+        "text_span": "CSDS",
+        "label": "DDF",
+        "start_idx": 865,
+        "end_idx": 869
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 882,
+        "end_idx": 885
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "intestinal microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  },
+  "37432210": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "central nervous system",
+        "label": "anatomical location",
+        "start_idx": 213,
+        "end_idx": 235
+      },
+      {
+        "location": "abstract",
+        "text_span": "CNS",
+        "label": "anatomical location",
+        "start_idx": 237,
+        "end_idx": 240
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 243,
+        "end_idx": 253
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut brain axis",
+        "label": "anatomical location",
+        "start_idx": 302,
+        "end_idx": 316
+      },
+      {
+        "location": "abstract",
+        "text_span": "GBA",
+        "label": "anatomical location",
+        "start_idx": 318,
+        "end_idx": 321
+      },
+      {
+        "location": "abstract",
+        "text_span": "oral",
+        "label": "anatomical location",
+        "start_idx": 577,
+        "end_idx": 581
+      },
+      {
+        "location": "abstract",
+        "text_span": "anxiety",
+        "label": "DDF",
+        "start_idx": 702,
+        "end_idx": 709
+      },
+      {
+        "location": "abstract",
+        "text_span": "depressive behavior",
+        "label": "DDF",
+        "start_idx": 711,
+        "end_idx": 730
+      },
+      {
+        "location": "abstract",
+        "text_span": "fluoxetine",
+        "label": "chemical",
+        "start_idx": 826,
+        "end_idx": 836
+      },
+      {
+        "location": "abstract",
+        "text_span": "FLU",
+        "label": "chemical",
+        "start_idx": 838,
+        "end_idx": 841
+      },
+      {
+        "location": "abstract",
+        "text_span": "TPB",
+        "label": "chemical",
+        "start_idx": 932,
+        "end_idx": 935
+      },
+      {
+        "location": "abstract",
+        "text_span": "INU",
+        "label": "chemical",
+        "start_idx": 937,
+        "end_idx": 940
+      },
+      {
+        "location": "abstract",
+        "text_span": "FLU",
+        "label": "chemical",
+        "start_idx": 945,
+        "end_idx": 948
+      },
+      {
+        "location": "abstract",
+        "text_span": "fecal",
+        "label": "anatomical location",
+        "start_idx": 1025,
+        "end_idx": 1030
+      },
+      {
+        "location": "abstract",
+        "text_span": "TPB",
+        "label": "chemical",
+        "start_idx": 1069,
+        "end_idx": 1072
+      },
+      {
+        "location": "abstract",
+        "text_span": "INU",
+        "label": "chemical",
+        "start_idx": 1077,
+        "end_idx": 1080
+      },
+      {
+        "location": "abstract",
+        "text_span": "CUMS",
+        "label": "DDF",
+        "start_idx": 1100,
+        "end_idx": 1104
+      },
+      {
+        "location": "abstract",
+        "text_span": "TPB",
+        "label": "chemical",
+        "start_idx": 1271,
+        "end_idx": 1274
+      },
+      {
+        "location": "abstract",
+        "text_span": "INU",
+        "label": "chemical",
+        "start_idx": 1291,
+        "end_idx": 1294
+      },
+      {
+        "location": "abstract",
+        "text_span": "FLU",
+        "label": "chemical",
+        "start_idx": 1320,
+        "end_idx": 1323
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "36009361": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "Pain",
+        "label": "DDF",
+        "start_idx": 0,
+        "end_idx": 4
+      },
+      {
+        "location": "title",
+        "text_span": "Gut",
+        "label": "anatomical location",
+        "start_idx": 24,
+        "end_idx": 27
+      },
+      {
+        "location": "title",
+        "text_span": "Dysbiosis",
+        "label": "DDF",
+        "start_idx": 38,
+        "end_idx": 47
+      },
+      {
+        "location": "abstract",
+        "text_span": "-induced dysbiosis",
+        "label": "DDF",
+        "start_idx": 6,
+        "end_idx": 24
+      },
+      {
+        "location": "abstract",
+        "text_span": "OID",
+        "label": "DDF",
+        "start_idx": 26,
+        "end_idx": 29
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 133,
+        "end_idx": 136
+      },
+      {
+        "location": "abstract",
+        "text_span": "epithelial barrier",
+        "label": "anatomical location",
+        "start_idx": 176,
+        "end_idx": 194
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 202,
+        "end_idx": 205
+      },
+      {
+        "location": "abstract",
+        "text_span": "hyperalgesia",
+        "label": "DDF",
+        "start_idx": 296,
+        "end_idx": 308
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut-brain",
+        "label": "anatomical location",
+        "start_idx": 435,
+        "end_idx": 444
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 506,
+        "end_idx": 511
+      },
+      {
+        "location": "abstract",
+        "text_span": "intestinal",
+        "label": "anatomical location",
+        "start_idx": 517,
+        "end_idx": 527
+      },
+      {
+        "location": "abstract",
+        "text_span": "Irritable Bowel Disease",
+        "label": "DDF",
+        "start_idx": 694,
+        "end_idx": 717
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 792,
+        "end_idx": 811
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 862,
+        "end_idx": 872
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 898,
+        "end_idx": 901
+      },
+      {
+        "location": "abstract",
+        "text_span": "faecal",
+        "label": "anatomical location",
+        "start_idx": 971,
+        "end_idx": 977
+      },
+      {
+        "location": "abstract",
+        "text_span": "OID",
+        "label": "DDF",
+        "start_idx": 1105,
+        "end_idx": 1108
+      },
+      {
+        "location": "abstract",
+        "text_span": "OID",
+        "label": "DDF",
+        "start_idx": 1191,
+        "end_idx": 1194
+      },
+      {
+        "location": "abstract",
+        "text_span": "depression",
+        "label": "DDF",
+        "start_idx": 1199,
+        "end_idx": 1209
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's Disease",
+        "label": "DDF",
+        "start_idx": 1211,
+        "end_idx": 1230
+      },
+      {
+        "location": "abstract",
+        "text_span": "infection",
+        "label": "DDF",
+        "start_idx": 1232,
+        "end_idx": 1241
+      },
+      {
+        "location": "abstract",
+        "text_span": "pain",
+        "label": "DDF",
+        "start_idx": 1270,
+        "end_idx": 1274
+      },
+      {
+        "location": "abstract",
+        "text_span": "OID",
+        "label": "DDF",
+        "start_idx": 1297,
+        "end_idx": 1300
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "26370263": {
+    "entities": [
+      {
+        "location": "abstract",
+        "text_span": "human",
+        "label": "human",
+        "start_idx": 665,
+        "end_idx": 670
+      },
+      {
+        "location": "abstract",
+        "text_span": "psychiatric disorders",
+        "label": "DDF",
+        "start_idx": 345,
+        "end_idx": 366
+      }
+    ],
+    "ternary_mention_based_relations": [],
+    "ternary_tag_based_relations": []
+  },
+  "31519175": {
+    "entities": [
+      {
+        "location": "title",
+        "text_span": "neurodegeneration",
+        "label": "DDF",
+        "start_idx": 28,
+        "end_idx": 45
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodegeneration",
+        "label": "DDF",
+        "start_idx": 104,
+        "end_idx": 121
+      },
+      {
+        "location": "abstract",
+        "text_span": "bacterial infection",
+        "label": "DDF",
+        "start_idx": 311,
+        "end_idx": 330
+      },
+      {
+        "location": "abstract",
+        "text_span": "Blood plasma",
+        "label": "anatomical location",
+        "start_idx": 332,
+        "end_idx": 344
+      },
+      {
+        "location": "abstract",
+        "text_span": "infections",
+        "label": "DDF",
+        "start_idx": 407,
+        "end_idx": 417
+      },
+      {
+        "location": "abstract",
+        "text_span": "gut",
+        "label": "anatomical location",
+        "start_idx": 419,
+        "end_idx": 422
+      },
+      {
+        "location": "abstract",
+        "text_span": "gum",
+        "label": "anatomical location",
+        "start_idx": 437,
+        "end_idx": 440
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodegenerative disease",
+        "label": "DDF",
+        "start_idx": 453,
+        "end_idx": 478
+      },
+      {
+        "location": "abstract",
+        "text_span": "blood",
+        "label": "anatomical location",
+        "start_idx": 515,
+        "end_idx": 520
+      },
+      {
+        "location": "abstract",
+        "text_span": "humans",
+        "label": "human",
+        "start_idx": 532,
+        "end_idx": 538
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain microglial",
+        "label": "anatomical location",
+        "start_idx": 573,
+        "end_idx": 589
+      },
+      {
+        "location": "abstract",
+        "text_span": "blood",
+        "label": "anatomical location",
+        "start_idx": 641,
+        "end_idx": 646
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 751,
+        "end_idx": 756
+      },
+      {
+        "location": "abstract",
+        "text_span": "amyloid β",
+        "label": "gene",
+        "start_idx": 798,
+        "end_idx": 807
+      },
+      {
+        "location": "abstract",
+        "text_span": "tau",
+        "label": "gene",
+        "start_idx": 812,
+        "end_idx": 815
+      },
+      {
+        "location": "abstract",
+        "text_span": "neurodegenerative diseases",
+        "label": "DDF",
+        "start_idx": 954,
+        "end_idx": 980
+      },
+      {
+        "location": "abstract",
+        "text_span": "Blood",
+        "label": "anatomical location",
+        "start_idx": 982,
+        "end_idx": 987
+      },
+      {
+        "location": "abstract",
+        "text_span": "brain",
+        "label": "anatomical location",
+        "start_idx": 992,
+        "end_idx": 997
+      },
+      {
+        "location": "abstract",
+        "text_span": "Alzheimer's disease",
+        "label": "DDF",
+        "start_idx": 1031,
+        "end_idx": 1050
+      },
+      {
+        "location": "abstract",
+        "text_span": "systemic infections",
+        "label": "DDF",
+        "start_idx": 1076,
+        "end_idx": 1095
+      },
+      {
+        "location": "abstract",
+        "text_span": "gum",
+        "label": "anatomical location",
+        "start_idx": 1107,
+        "end_idx": 1110
+      },
+      {
+        "location": "abstract",
+        "text_span": "APOE",
+        "label": "gene",
+        "start_idx": 1148,
+        "end_idx": 1152
+      },
+      {
+        "location": "abstract",
+        "text_span": "Alzheimer's disease",
+        "label": "DDF",
+        "start_idx": 1224,
+        "end_idx": 1243
+      },
+      {
+        "location": "abstract",
+        "text_span": "Intestinal",
+        "label": "anatomical location",
+        "start_idx": 1245,
+        "end_idx": 1255
+      },
+      {
+        "location": "abstract",
+        "text_span": "Parkinson's disease",
+        "label": "DDF",
+        "start_idx": 1288,
+        "end_idx": 1307
+      }
+    ],
+    "ternary_mention_based_relations": [
+      {
+        "subject_text_span": "intestinal microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      }
+    ],
+    "ternary_tag_based_relations": [
+      {
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_label": "anatomical location"
+      }
+    ]
+  }
+}

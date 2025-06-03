@@ -1,0 +1,1653 @@
+{
+    "30099552": {
+        "total_entities": 16,
+        "valid_entities": 16,
+        "invalid_entities": 0,
+        "adjusted_entities": 4,
+        "label_counts": {
+            "DDF": 9,
+            "anatomical": 4,
+            "bioprocess": 3
+        },
+        "text_span_counts": {
+            "brain": 2,
+            "vagus nerve": 1,
+            "immune system": 1,
+            "neuropsychiatric disorders": 1,
+            "mood": 1,
+            "anxiety disorders": 1,
+            "neurodevelopmental": 1,
+            "autism spectrum disorder": 1,
+            "schizophrenia": 1,
+            "neurodegenerative disorders": 1,
+            "alzheimer's": 1,
+            "parkinson's diseases": 1,
+            "cognitive": 1,
+            "decline": 1,
+            "neurological": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "bioprocess": 2,
+                "anatomical": 1,
+                "DDF": 1
+            },
+            "by_offset": {
+                "-1": 3,
+                "1": 1
+            }
+        }
+    },
+    "37124355": {
+        "total_entities": 18,
+        "valid_entities": 17,
+        "invalid_entities": 1,
+        "adjusted_entities": 15,
+        "label_counts": {
+            "Organism": 9,
+            "DDF": 4,
+            "Chemical": 3,
+            "bioprocess": 2
+        },
+        "text_span_counts": {
+            "scz": 2,
+            "dopamine": 2,
+            "schizophrenia": 1,
+            "neuropsychiatric disorder": 1,
+            "tyrosine": 1,
+            "biosynthesis of tyrosine": 1,
+            "cognitive": 1,
+            "patients": 1,
+            "flavonifractor plautii": 1,
+            "collinsella aerofaciens": 1,
+            "bilophila wadsworthia": 1,
+            "sellimonas intestinalis": 1,
+            "faecalibacterium prausnitzii": 1,
+            "ruminococcus lactaris": 1,
+            "ruminococcus bicirculans": 1,
+            "veillonella rogosae": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "Organism": 9,
+                "Chemical": 3,
+                "bioprocess": 2,
+                "DDF": 1
+            },
+            "by_offset": {
+                "1": 15
+            }
+        }
+    },
+    "29870894": {
+        "total_entities": 28,
+        "valid_entities": 27,
+        "invalid_entities": 1,
+        "adjusted_entities": 22,
+        "label_counts": {
+            "anatomical": 14,
+            "cell_component": 5,
+            "disease": 3,
+            "chemical": 3,
+            "bioprocess": 2,
+            "biomedical_technique": 1
+        },
+        "text_span_counts": {
+            "gut": 5,
+            "membrane": 5,
+            "brain": 4,
+            "fecal samples": 2,
+            "choline": 2,
+            "psychosis": 1,
+            "gut-brain": 1,
+            "anterior cingulate cortex": 1,
+            "acc": 1,
+            "uhr": 1,
+            "production of short chain fatty acids": 1,
+            "scfas": 1,
+            "metabolism": 1,
+            "schizophrenia": 1,
+            "mrs": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 11,
+                "cell_component": 4,
+                "chemical": 3,
+                "disease": 2,
+                "bioprocess": 2
+            },
+            "by_offset": {
+                "1": 22
+            }
+        }
+    },
+    "38222911": {
+        "total_entities": 23,
+        "valid_entities": 22,
+        "invalid_entities": 1,
+        "adjusted_entities": 16,
+        "label_counts": {
+            "anatomical": 10,
+            "chemical": 4,
+            "DDF": 3,
+            "bioprocess": 2,
+            "gene": 2,
+            "human": 1,
+            "organism": 1
+        },
+        "text_span_counts": {
+            "gut": 3,
+            "scfas": 2,
+            "gut-brain": 2,
+            "cytokines": 1,
+            "intestinal barrier": 1,
+            "immune": 1,
+            "intestinal barrier system": 1,
+            "intestine": 1,
+            "serotonin": 1,
+            "interleukin 10 and 18": 1,
+            "cns autoimmune inflammation": 1,
+            "production of mucins": 1,
+            "bifidobacterium": 1,
+            "metabolic": 1,
+            "neurological": 1,
+            "colon cancer": 1,
+            "inflammatory bowel diseases": 1,
+            "human": 1,
+            "as": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 7,
+                "chemical": 4,
+                "bioprocess": 2,
+                "gene": 2,
+                "organism": 1
+            },
+            "by_offset": {
+                "1": 16
+            }
+        }
+    },
+    "34588398": {
+        "total_entities": 17,
+        "valid_entities": 17,
+        "invalid_entities": 0,
+        "adjusted_entities": 16,
+        "label_counts": {
+            "Anatomical Location": 6,
+            "Gene": 5,
+            "DDF": 2,
+            "Drug": 2,
+            "Organism": 1,
+            "Chemical": 1
+        },
+        "text_span_counts": {
+            "aimd": 2,
+            "gut-brain": 2,
+            "metformin": 2,
+            "intestinal": 1,
+            "akkermansia muciniphila": 1,
+            "fatty acids": 1,
+            "intestinal endocrine": 1,
+            "glucagon-like peptide 1": 1,
+            "peptide yy": 1,
+            "cholecystokinin": 1,
+            "ghrelin": 1,
+            "vagus nerve": 1,
+            "brain": 1,
+            "neuropeptide receptors": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "Anatomical Location": 6,
+                "Gene": 5,
+                "Drug": 2,
+                "Organism": 1,
+                "Chemical": 1,
+                "DDF": 1
+            },
+            "by_offset": {
+                "1": 16
+            }
+        }
+    },
+    "38432179": {
+        "total_entities": 9,
+        "valid_entities": 9,
+        "invalid_entities": 0,
+        "adjusted_entities": 6,
+        "label_counts": {
+            "chemical": 2,
+            "anatomical": 2,
+            "disease": 2,
+            "gene": 2,
+            "bioprocess": 1
+        },
+        "text_span_counts": {
+            "colonic": 2,
+            "vitamin d<sub>3</sub>": 1,
+            "anxiety": 1,
+            "vd receptor": 1,
+            "tph1": 1,
+            "signaling": 1,
+            "serotonin": 1,
+            "mood disorders": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "gene": 2,
+                "anatomical": 1,
+                "bioprocess": 1,
+                "chemical": 1,
+                "disease": 1
+            },
+            "by_offset": {
+                "1": 6
+            }
+        }
+    },
+    "28027925": {
+        "total_entities": 19,
+        "valid_entities": 19,
+        "invalid_entities": 0,
+        "adjusted_entities": 19,
+        "label_counts": {
+            "anatomical": 7,
+            "gene": 7,
+            "DDF": 3,
+            "organism": 1,
+            "chemical": 1
+        },
+        "text_span_counts": {
+            "mets": 2,
+            "hypothalamic": 2,
+            "hippocampal": 2,
+            "neuropsychiatric symptoms": 1,
+            "mice": 1,
+            "il-1β": 1,
+            "npy": 1,
+            "cart": 1,
+            "pomc": 1,
+            "blood-brain-barrier": 1,
+            "hypothalamus": 1,
+            "oligofructose": 1,
+            "zo-1": 1,
+            "occludin": 1,
+            "il-6": 1,
+            "dentate gyrus": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 7,
+                "gene": 7,
+                "DDF": 3,
+                "organism": 1,
+                "chemical": 1
+            },
+            "by_offset": {
+                "1": 19
+            }
+        }
+    },
+    "29315562": {
+        "total_entities": 29,
+        "valid_entities": 26,
+        "invalid_entities": 3,
+        "adjusted_entities": 25,
+        "label_counts": {
+            "chemical": 8,
+            "gene": 8,
+            "organism": 7,
+            "anatomical": 3,
+            "disease": 3
+        },
+        "text_span_counts": {
+            "paraquat": 7,
+            "hfe": 4,
+            "mice": 4,
+            "mouse": 2,
+            "substantia nigra": 2,
+            "parkinson's disease": 2,
+            "gut": 1,
+            "l-ferritin": 1,
+            "iron": 1,
+            "neurodegenerative diseases": 1,
+            "h63d hfe": 1,
+            "h67d": 1,
+            "human": 1,
+            "h63d": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "gene": 7,
+                "chemical": 7,
+                "organism": 6,
+                "disease": 3,
+                "anatomical": 2
+            },
+            "by_offset": {
+                "1": 25
+            }
+        }
+    },
+    "35786740": {
+        "total_entities": 23,
+        "valid_entities": 22,
+        "invalid_entities": 1,
+        "adjusted_entities": 19,
+        "label_counts": {
+            "anatomical": 14,
+            "disease": 6,
+            "organism": 2,
+            "DDF": 1
+        },
+        "text_span_counts": {
+            "gut": 4,
+            "gut-brain": 4,
+            "brain": 3,
+            "human": 2,
+            "body systems": 1,
+            "non-communicable chronic diseases": 1,
+            "inflammatory bowel disease": 1,
+            "irritable bowel syndrome": 1,
+            "parkinson's": 1,
+            "alzheimer's disease": 1,
+            "autism spectrum disorder": 1,
+            "immune system": 1,
+            "neuro-immune": 1,
+            "cns autoimmune inflammation": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 11,
+                "disease": 6,
+                "organism": 2
+            },
+            "by_offset": {
+                "1": 19
+            }
+        }
+    },
+    "31749671": {
+        "total_entities": 31,
+        "valid_entities": 31,
+        "invalid_entities": 0,
+        "adjusted_entities": 27,
+        "label_counts": {
+            "anatomical": 11,
+            "gene": 9,
+            "organism": 6,
+            "disease": 3,
+            "chemical": 1,
+            "bioprocess": 1
+        },
+        "text_span_counts": {
+            "snca": 5,
+            "mice": 4,
+            "gut": 4,
+            "fecal": 3,
+            "parkinson's disease": 1,
+            "head": 1,
+            "nicotine": 1,
+            "mouse": 1,
+            "overexpressing": 1,
+            "human": 1,
+            "inflammation": 1,
+            "pd": 1,
+            "calp": 1,
+            "colon": 1,
+            "sn": 1,
+            "colon fecal": 1,
+            "calprotectin": 1,
+            "cytokines": 1,
+            "feces": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 9,
+                "gene": 9,
+                "organism": 6,
+                "chemical": 1,
+                "bioprocess": 1,
+                "disease": 1
+            },
+            "by_offset": {
+                "1": 27
+            }
+        }
+    },
+    "28767318": {
+        "total_entities": 24,
+        "valid_entities": 23,
+        "invalid_entities": 1,
+        "adjusted_entities": 19,
+        "label_counts": {
+            "anatomical": 12,
+            "disease": 10,
+            "organism": 2
+        },
+        "text_span_counts": {
+            "gut": 6,
+            "anxiety-": 4,
+            "trauma-related disorders": 4,
+            "human": 2,
+            "brain": 1,
+            "gut-brain": 1,
+            "mgb": 1,
+            "hypothalamic-pituitary-adrenal": 1,
+            "hpa) axis": 1,
+            "psychiatric disorders": 1,
+            "mg": 1,
+            "mental illness": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 11,
+                "disease": 6,
+                "organism": 2
+            },
+            "by_offset": {
+                "1": 19
+            }
+        }
+    },
+    "33742731": {
+        "total_entities": 31,
+        "valid_entities": 31,
+        "invalid_entities": 0,
+        "adjusted_entities": 22,
+        "label_counts": {
+            "anatomical": 15,
+            "gene": 6,
+            "bioprocess": 4,
+            "disease": 3,
+            "organism": 2,
+            "chemical": 1
+        },
+        "text_span_counts": {
+            "gut": 3,
+            "fecal": 2,
+            "intestinal barrier": 2,
+            "depressive": 2,
+            "brain": 2,
+            "ileum": 1,
+            "il-1β": 1,
+            "caspase-1": 1,
+            "asc": 1,
+            "nlrp3": 1,
+            "mucosal layer": 1,
+            "occludin": 1,
+            "zo-1": 1,
+            "expression": 1,
+            "swimming": 1,
+            "epithelial": 1,
+            "villi": 1,
+            "sucrose": 1,
+            "consumption": 1,
+            "neuroinflammation": 1,
+            "modulate": 1,
+            "central nervous system": 1,
+            "gastrointestinal tract": 1,
+            "rats": 1,
+            "rat": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 8,
+                "gene": 6,
+                "bioprocess": 4,
+                "disease": 2,
+                "chemical": 1,
+                "organism": 1
+            },
+            "by_offset": {
+                "1": 22
+            }
+        }
+    },
+    "28899766": {
+        "total_entities": 14,
+        "valid_entities": 13,
+        "invalid_entities": 1,
+        "adjusted_entities": 13,
+        "label_counts": {
+            "DDF": 4,
+            "anatomical": 4,
+            "disease": 2,
+            "chemical": 2,
+            "bioprocess": 2
+        },
+        "text_span_counts": {
+            "lgi": 3,
+            "cns autoimmune inflammation": 1,
+            "tissues": 1,
+            "gut": 1,
+            "immune system": 1,
+            "gut-brain": 1,
+            "abnormalities": 1,
+            "infections": 1,
+            "omega-3 fatty acid": 1,
+            "polyphenol": 1,
+            "controlling": 1,
+            "control": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 4,
+                "DDF": 3,
+                "disease": 2,
+                "chemical": 2,
+                "bioprocess": 2
+            },
+            "by_offset": {
+                "1": 13
+            }
+        }
+    },
+    "36271691": {
+        "total_entities": 30,
+        "valid_entities": 30,
+        "invalid_entities": 0,
+        "adjusted_entities": 20,
+        "label_counts": {
+            "anatomical": 14,
+            "bioprocess": 9,
+            "chemical": 5,
+            "organism": 2
+        },
+        "text_span_counts": {
+            "gut": 6,
+            "b vitamins": 3,
+            "metabolism": 2,
+            "homeostasis": 2,
+            "human": 2,
+            "feeding of b vitamins": 1,
+            "kynurenines/tryptophan": 1,
+            "energetic metabolism": 1,
+            "brain": 1,
+            "distal gut": 1,
+            "small intestine": 1,
+            "b-vitamins": 1,
+            "intake": 1,
+            "gut microbial": 1,
+            "gut microbiome": 1,
+            "metabolic": 1,
+            "micronutrient metabolism": 1,
+            "intestinal": 1,
+            "gut-brain": 1,
+            "neurological": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 9,
+                "bioprocess": 5,
+                "chemical": 4,
+                "organism": 2
+            },
+            "by_offset": {
+                "1": 20
+            }
+        }
+    },
+    "35153869": {
+        "total_entities": 30,
+        "valid_entities": 30,
+        "invalid_entities": 0,
+        "adjusted_entities": 29,
+        "label_counts": {
+            "anatomical": 15,
+            "disease": 13,
+            "bioprocess": 2
+        },
+        "text_span_counts": {
+            "periodontal": 5,
+            "oral": 4,
+            "periodontitis": 2,
+            "pregnancy": 1,
+            "stress-related disorders": 1,
+            "trauma-": 1,
+            "anxiety": 1,
+            "immune system": 1,
+            "dysregulation": 1,
+            "schizophrenia": 1,
+            "depression": 1,
+            "neuropsychiatric disorders": 1,
+            "diabetes": 1,
+            "gut": 1,
+            "atherosclerosis": 1,
+            "chronic systemic inflammatory diseases": 1,
+            "chronic, multi-bacterial infection": 1,
+            "periodontium": 1,
+            "infectious and inflammatory diseases": 1,
+            "soft and hard tissues": 1,
+            "oral cavity": 1,
+            "central nervous system": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 14,
+                "disease": 13,
+                "bioprocess": 2
+            },
+            "by_offset": {
+                "1": 29
+            }
+        }
+    },
+    "33935741": {
+        "total_entities": 31,
+        "valid_entities": 31,
+        "invalid_entities": 0,
+        "adjusted_entities": 24,
+        "label_counts": {
+            "anatomical": 11,
+            "bioprocess": 8,
+            "chemical": 5,
+            "organism": 3,
+            "disease": 3,
+            "gene": 1
+        },
+        "text_span_counts": {
+            "gut": 4,
+            "gaba": 3,
+            "mice": 2,
+            "gut-brain": 2,
+            "modulate": 2,
+            "swim": 1,
+            "expression": 1,
+            "serum": 1,
+            "intestinal": 1,
+            "fecal samples": 1,
+            "cognition": 1,
+            "swimming": 1,
+            "fatigue": 1,
+            "modulation": 1,
+            "tail": 1,
+            "sucrose": 1,
+            "depressive": 1,
+            "homeostasis": 1,
+            "depression": 1,
+            "astragalus membranaxeus": 1,
+            "gamma aminobutyric acid": 1,
+            "central nervous system": 1,
+            "glur1": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 7,
+                "bioprocess": 6,
+                "chemical": 4,
+                "organism": 3,
+                "disease": 3,
+                "gene": 1
+            },
+            "by_offset": {
+                "1": 24
+            }
+        }
+    },
+    "38463411": {
+        "total_entities": 26,
+        "valid_entities": 25,
+        "invalid_entities": 1,
+        "adjusted_entities": 14,
+        "label_counts": {
+            "DDF": 11,
+            "organism": 4,
+            "anatomical location": 4,
+            "bioprocess": 4,
+            "drug": 1,
+            "Human": 1,
+            "gene": 1
+        },
+        "text_span_counts": {
+            "akkermansia muciniphila": 4,
+            "weight gain": 3,
+            "gut": 2,
+            "metabolic": 2,
+            "psychiatric": 1,
+            "insulin": 1,
+            "metabolic regulation": 1,
+            "food intake behavior": 1,
+            "satiety": 1,
+            "gut-brain": 1,
+            "inflammation": 1,
+            "olanzapine": 1,
+            "hyperglycemia": 1,
+            "chronic inflammatory diseases": 1,
+            "obesity": 1,
+            "diabetes": 1,
+            "patients": 1,
+            "psychiatric disorders": 1,
+            "gut barrier": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "DDF": 4,
+                "bioprocess": 4,
+                "anatomical location": 3,
+                "organism": 2,
+                "Human": 1
+            },
+            "by_offset": {
+                "1": 14
+            }
+        }
+    },
+    "36801431": {
+        "total_entities": 30,
+        "valid_entities": 30,
+        "invalid_entities": 0,
+        "adjusted_entities": 26,
+        "label_counts": {
+            "DDF": 13,
+            "Anatomical": 9,
+            "Gene": 5,
+            "Drug": 3
+        },
+        "text_span_counts": {
+            "fatigue": 12,
+            "kidney": 7,
+            "proton pump": 4,
+            "ppi": 2,
+            "ppis": 1,
+            "gut": 1,
+            "chronic fatigue": 1,
+            "upper gastrointestinal": 1,
+            "proton": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "DDF": 12,
+                "Anatomical": 8,
+                "Gene": 4,
+                "Drug": 2
+            },
+            "by_offset": {
+                "1": 26
+            }
+        }
+    },
+    "37663891": {
+        "total_entities": 2,
+        "valid_entities": 2,
+        "invalid_entities": 0,
+        "adjusted_entities": 2,
+        "label_counts": {
+            "anatomical": 1,
+            "DDF": 1
+        },
+        "text_span_counts": {
+            "gut": 1,
+            "brain": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 1,
+                "DDF": 1
+            },
+            "by_offset": {
+                "1": 2
+            }
+        }
+    },
+    "33087994": {
+        "total_entities": 14,
+        "valid_entities": 14,
+        "invalid_entities": 0,
+        "adjusted_entities": 10,
+        "label_counts": {
+            "anatomical": 5,
+            "organism": 4,
+            "disease": 4,
+            "chemical": 1
+        },
+        "text_span_counts": {
+            "gut": 2,
+            "faecal": 2,
+            "patients": 2,
+            "obesity": 2,
+            "obese": 2,
+            "bifidobacterium longum": 1,
+            "blood": 1,
+            "sugar": 1,
+            "humans": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 4,
+                "organism": 3,
+                "disease": 2,
+                "chemical": 1
+            },
+            "by_offset": {
+                "1": 10
+            }
+        }
+    },
+    "32399169": {
+        "total_entities": 13,
+        "valid_entities": 13,
+        "invalid_entities": 0,
+        "adjusted_entities": 10,
+        "label_counts": {
+            "DDF": 9,
+            "organism": 3,
+            "anatomical_location": 1
+        },
+        "text_span_counts": {
+            "pd": 6,
+            "parkinson's disease": 3,
+            "participants": 2,
+            "gut": 1,
+            "women": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "DDF": 7,
+                "organism": 3
+            },
+            "by_offset": {
+                "1": 10
+            }
+        }
+    },
+    "38078745": {
+        "total_entities": 19,
+        "valid_entities": 19,
+        "invalid_entities": 0,
+        "adjusted_entities": 3,
+        "label_counts": {
+            "DDF": 14,
+            "anatomical": 4,
+            "organism": 1
+        },
+        "text_span_counts": {
+            "pd": 6,
+            "parkinson's disease": 3,
+            "gut": 3,
+            "constipation": 2,
+            "parkinsonian": 1,
+            "depression": 1,
+            "anxiety": 1,
+            "ileum": 1,
+            "mouse": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "DDF": 2,
+                "anatomical": 1
+            },
+            "by_offset": {
+                "1": 3
+            }
+        }
+    },
+    "34789332": {
+        "total_entities": 30,
+        "valid_entities": 30,
+        "invalid_entities": 0,
+        "adjusted_entities": 21,
+        "label_counts": {
+            "cell_component": 12,
+            "DDF": 10,
+            "bioprocess": 6,
+            "anatomical": 2
+        },
+        "text_span_counts": {
+            "cytoskeletal": 4,
+            "mitochondrial": 4,
+            "amyotrophic lateral sclerosis": 2,
+            "als": 2,
+            "anterograde and retrograde transport": 1,
+            "dysregulations": 1,
+            "charcot-marie-tooth disease": 1,
+            "huntington's disease": 1,
+            "parkinson's disease": 1,
+            "alzheimer's disease": 1,
+            "neurodegenerative conditions": 1,
+            "dysfunction": 1,
+            "regulate": 1,
+            "axonal": 1,
+            "dysregulation": 1,
+            "mitochondria": 1,
+            "cytoskeleton": 1,
+            "axonal projections": 1,
+            "spinal cord": 1,
+            "brain": 1,
+            "progressive neurodegenerative disease": 1,
+            "homeostasis": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "cell_component": 10,
+                "DDF": 6,
+                "bioprocess": 5
+            },
+            "by_offset": {
+                "1": 21
+            }
+        }
+    },
+    "30747427": {
+        "total_entities": 30,
+        "valid_entities": 30,
+        "invalid_entities": 0,
+        "adjusted_entities": 26,
+        "label_counts": {
+            "disease": 14,
+            "anatomical": 7,
+            "bioprocess": 5,
+            "organism": 2,
+            "chemical": 2
+        },
+        "text_span_counts": {
+            "autism": 6,
+            "gut": 3,
+            "gastrointestinal": 3,
+            "neurodevelopmental": 2,
+            "glutathione": 1,
+            "crohn's disease": 1,
+            "psychiatric disorder": 1,
+            "mental disorder": 1,
+            "psychiatric impairment": 1,
+            "gut-brain": 1,
+            "amino acid": 1,
+            "physiological homoeostasis": 1,
+            "immunological development": 1,
+            "autism spectrum disorder": 1,
+            "human": 1,
+            "psychiatric illness": 1,
+            "cognitive": 1,
+            "neurodevelopmental or neuropsychiatric disorder": 1,
+            "asd": 1,
+            "autistic": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "disease": 11,
+                "anatomical": 6,
+                "bioprocess": 5,
+                "organism": 2,
+                "chemical": 2
+            },
+            "by_offset": {
+                "1": 26
+            }
+        }
+    },
+    "33181474": {
+        "total_entities": 15,
+        "valid_entities": 13,
+        "invalid_entities": 2,
+        "adjusted_entities": 13,
+        "label_counts": {
+            "DDF": 6,
+            "anatomical": 6,
+            "organism": 3
+        },
+        "text_span_counts": {
+            "gut": 3,
+            "inflammation": 2,
+            "osas": 2,
+            "gut barrier": 2,
+            "obstructive sleep apnoea syndrome": 1,
+            "bacteroides fragilis": 1,
+            "faecalibacterium prausnitzii": 1,
+            "snoring": 1,
+            "stool samples": 1,
+            "children": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 6,
+                "DDF": 4,
+                "organism": 3
+            },
+            "by_offset": {
+                "1": 13
+            }
+        }
+    },
+    "33066107": {
+        "total_entities": 30,
+        "valid_entities": 26,
+        "invalid_entities": 4,
+        "adjusted_entities": 20,
+        "label_counts": {
+            "disease": 10,
+            "organism": 8,
+            "anatomical": 4,
+            "chemical": 3,
+            "gene": 2,
+            "bioprocess": 1,
+            "statistical_technique": 1,
+            "DDF": 1
+        },
+        "text_span_counts": {
+            "pws": 3,
+            "bpl1": 3,
+            "children": 3,
+            "bifidobacterium animalis": 2,
+            "hyperphagia": 2,
+            "insulin": 2,
+            "patients": 2,
+            "prader-willi syndrome": 2,
+            "adults": 1,
+            "simple obesity": 1,
+            "obesity": 1,
+            "participants": 1,
+            "genetic disorder": 1,
+            "lipid and glucose metabolism": 1,
+            "abdominal": 1,
+            "subgroup": 1,
+            "older than 4.5 years": 1,
+            "4.5 years": 1,
+            "abdominal adiposity": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "organism": 7,
+                "disease": 5,
+                "chemical": 3,
+                "anatomical": 2,
+                "gene": 2,
+                "bioprocess": 1
+            },
+            "by_offset": {
+                "1": 20
+            }
+        }
+    },
+    "37714308": {
+        "total_entities": 27,
+        "valid_entities": 27,
+        "invalid_entities": 0,
+        "adjusted_entities": 24,
+        "label_counts": {
+            "anatomical": 16,
+            "disease": 7,
+            "bioprocess": 2,
+            "organism": 2
+        },
+        "text_span_counts": {
+            "gi": 7,
+            "msa": 4,
+            "gastrointestinal": 2,
+            "patients": 2,
+            "multiple system atrophy": 1,
+            "progressive neurodegenerative disorder": 1,
+            "system": 1,
+            "swallowing": 1,
+            "abdominal": 1,
+            "gastric": 1,
+            "dysfunctions": 1,
+            "gut": 1,
+            "gi tract": 1,
+            "enteric nervous system": 1,
+            "intestinal barrier": 1,
+            "immune": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 15,
+                "disease": 5,
+                "bioprocess": 2,
+                "organism": 2
+            },
+            "by_offset": {
+                "1": 24
+            }
+        }
+    },
+    "37305758": {
+        "total_entities": 31,
+        "valid_entities": 30,
+        "invalid_entities": 1,
+        "adjusted_entities": 24,
+        "label_counts": {
+            "anatomical": 17,
+            "disease": 6,
+            "bioprocess": 5,
+            "gene": 2,
+            "organism": 1
+        },
+        "text_span_counts": {
+            "intestinal": 5,
+            "pd": 4,
+            "gut-brain": 3,
+            "dysregulation": 3,
+            "gastrointestinal": 2,
+            "α-synuclein": 2,
+            "enteric nervous system": 1,
+            "central nervous system": 1,
+            "individuals": 1,
+            "brain": 1,
+            "ens": 1,
+            "gut-brain axis": 1,
+            "intestinal epithelial barrier": 1,
+            "misfolding": 1,
+            "aging": 1,
+            "neurodegenerative disease": 1,
+            "parkinson's disease": 1,
+            "cns": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 15,
+                "bioprocess": 3,
+                "disease": 3,
+                "gene": 2,
+                "organism": 1
+            },
+            "by_offset": {
+                "1": 24
+            }
+        }
+    },
+    "31158941": {
+        "total_entities": 16,
+        "valid_entities": 16,
+        "invalid_entities": 0,
+        "adjusted_entities": 11,
+        "label_counts": {
+            "anatomical": 9,
+            "DDF": 4,
+            "gene": 1,
+            "bioprocess": 1,
+            "organism": 1
+        },
+        "text_span_counts": {
+            "gut": 5,
+            "parkinson's disease": 2,
+            "pd": 1,
+            "neurodegenerative disorder": 1,
+            "α-synuclein": 1,
+            "enteric nervous system": 1,
+            "brain": 1,
+            "vagus nerve": 1,
+            "gut-brain axis": 1,
+            "gastrointestinal": 1,
+            "patients": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 8,
+                "gene": 1,
+                "bioprocess": 1,
+                "organism": 1
+            },
+            "by_offset": {
+                "1": 11
+            }
+        }
+    },
+    "34485176": {
+        "total_entities": 14,
+        "valid_entities": 14,
+        "invalid_entities": 0,
+        "adjusted_entities": 12,
+        "label_counts": {
+            "DDF": 7,
+            "Gene": 3,
+            "anatomical": 3,
+            "Bacteria": 1
+        },
+        "text_span_counts": {
+            "frailty": 6,
+            "il-6": 2,
+            "geriatric syndrome": 1,
+            "parabacteroides": 1,
+            "hgmb1": 1,
+            "serum": 1,
+            "intestinal": 1,
+            "fecal": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "DDF": 5,
+                "Gene": 3,
+                "anatomical": 3,
+                "Bacteria": 1
+            },
+            "by_offset": {
+                "1": 12
+            }
+        }
+    },
+    "28901279": {
+        "total_entities": 16,
+        "valid_entities": 16,
+        "invalid_entities": 0,
+        "adjusted_entities": 15,
+        "label_counts": {
+            "DDF": 9,
+            "bioprocess": 4,
+            "anatomical": 3
+        },
+        "text_span_counts": {
+            "depressive illness": 4,
+            "depression": 4,
+            "major depression": 1,
+            "hypothalamic-pituitary-adrenal axis": 1,
+            "brain": 1,
+            "neurogenesis": 1,
+            "dysregulation": 1,
+            "gut": 1,
+            "eating": 1,
+            "lifespan": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "DDF": 8,
+                "bioprocess": 4,
+                "anatomical": 3
+            },
+            "by_offset": {
+                "1": 15
+            }
+        }
+    },
+    "35994167": {
+        "total_entities": 4,
+        "valid_entities": 4,
+        "invalid_entities": 0,
+        "adjusted_entities": 3,
+        "label_counts": {
+            "anatomical": 2,
+            "DDF": 1,
+            "bioprocess": 1
+        },
+        "text_span_counts": {
+            "sporadic parkinson's disease": 1,
+            "gastrointestinal": 1,
+            "organ systems": 1,
+            "aging": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 2,
+                "bioprocess": 1
+            },
+            "by_offset": {
+                "1": 3
+            }
+        }
+    },
+    "35399136": {
+        "total_entities": 30,
+        "valid_entities": 30,
+        "invalid_entities": 0,
+        "adjusted_entities": 23,
+        "label_counts": {
+            "chemical": 10,
+            "anatomical": 8,
+            "DDF": 4,
+            "bioprocess": 3,
+            "gene": 3,
+            "organism": 2
+        },
+        "text_span_counts": {
+            "mptp": 3,
+            "intestinal": 2,
+            "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine": 2,
+            "succinate": 2,
+            "drd2": 2,
+            "dopamine": 2,
+            "ageing": 1,
+            "mice": 1,
+            "loss": 1,
+            "gut": 1,
+            "substantia nigra": 1,
+            "intestinal epithelium": 1,
+            "drd4": 1,
+            "dopamine/dopamine": 1,
+            "colon": 1,
+            "mouse": 1,
+            "neurodegeneration": 1,
+            "deregulation": 1,
+            "pd": 1,
+            "parkinson's disease": 1,
+            "gastrointestinal": 1,
+            "dopaminergic neurodegeneration": 1,
+            "mitochondrial membrane": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "chemical": 8,
+                "anatomical": 6,
+                "bioprocess": 3,
+                "gene": 3,
+                "organism": 2,
+                "DDF": 1
+            },
+            "by_offset": {
+                "1": 23
+            }
+        }
+    },
+    "32495743": {
+        "total_entities": 31,
+        "valid_entities": 31,
+        "invalid_entities": 0,
+        "adjusted_entities": 28,
+        "label_counts": {
+            "anatomical": 12,
+            "disease": 8,
+            "organism": 4,
+            "bioprocess": 4,
+            "chemical": 2,
+            "biomedical technique": 1
+        },
+        "text_span_counts": {
+            "gut": 4,
+            "anxiety symptoms": 3,
+            "gut-brain": 2,
+            "anxiety": 2,
+            "participants": 2,
+            "brain": 2,
+            "met-2": 2,
+            "depression/anxiety": 1,
+            "gi": 1,
+            "grown": 1,
+            "consume": 1,
+            "orally": 1,
+            "depressive": 1,
+            "fmt": 1,
+            "metabolic": 1,
+            "gastrointestinal (gi) tract": 1,
+            "depression": 1,
+            "fecal": 1,
+            "individual": 1,
+            "human": 1,
+            "blood": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "anatomical": 9,
+                "disease": 8,
+                "organism": 4,
+                "bioprocess": 4,
+                "chemical": 2,
+                "biomedical technique": 1
+            },
+            "by_offset": {
+                "1": 28
+            }
+        }
+    },
+    "31736803": {
+        "total_entities": 31,
+        "valid_entities": 31,
+        "invalid_entities": 0,
+        "adjusted_entities": 30,
+        "label_counts": {
+            "Anatomical Location": 14,
+            "DDF": 10,
+            "Drug": 3,
+            "Organism": 2,
+            "Statistical Technique": 1,
+            "Human": 1
+        },
+        "text_span_counts": {
+            "bd": 5,
+            "brain": 4,
+            "immune": 4,
+            "quetiapine": 3,
+            "depression": 3,
+            "gut": 3,
+            "fecal": 2,
+            "bipolar disorder": 1,
+            "bipolar depression": 1,
+            "brain-gut": 1,
+            "enterobacter": 1,
+            "cb": 1,
+            "faecalibacterium prausnitzii": 1,
+            "patients": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "Anatomical Location": 14,
+                "DDF": 9,
+                "Drug": 3,
+                "Organism": 2,
+                "Statistical Technique": 1,
+                "Human": 1
+            },
+            "by_offset": {
+                "1": 30
+            }
+        }
+    },
+    "37400661": {
+        "total_entities": 31,
+        "valid_entities": 31,
+        "invalid_entities": 0,
+        "adjusted_entities": 26,
+        "label_counts": {
+            "chemical": 8,
+            "gene": 6,
+            "disease": 5,
+            "organism": 5,
+            "anatomical": 3,
+            "drug": 2,
+            "bioprocess": 1,
+            "cell_component": 1
+        },
+        "text_span_counts": {
+            "lat": 4,
+            "mice": 3,
+            "depression": 3,
+            "isoalantolactone": 2,
+            "fluoxetine": 2,
+            "brain derived neurotrophic factor": 1,
+            "csds": 1,
+            "tnf-α": 1,
+            "il-6": 1,
+            "prefrontal cortex": 1,
+            "glua1": 1,
+            "glutamate": 1,
+            "bdnf": 1,
+            "postsynaptic density": 1,
+            "psd": 1,
+            "expression": 1,
+            "serotonin": 1,
+            "anhedonia": 1,
+            "inula helenium": 1,
+            "elecampane": 1,
+            "gut-brain axis": 1,
+            "gut": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "chemical": 7,
+                "gene": 6,
+                "organism": 4,
+                "disease": 3,
+                "drug": 2,
+                "anatomical": 2,
+                "bioprocess": 1,
+                "cell_component": 1
+            },
+            "by_offset": {
+                "1": 26
+            }
+        }
+    },
+    "37432210": {
+        "total_entities": 31,
+        "valid_entities": 26,
+        "invalid_entities": 5,
+        "adjusted_entities": 26,
+        "label_counts": {
+            "chemical": 10,
+            "anatomical": 8,
+            "bioprocess": 5,
+            "organism": 4,
+            "disease": 3,
+            "DDF": 1
+        },
+        "text_span_counts": {
+            "inu": 3,
+            "tpb": 3,
+            "flu": 3,
+            "mice": 3,
+            "cns autoimmune inflammation": 1,
+            "depressive behavior": 1,
+            "cums": 1,
+            "fecal": 1,
+            "neurogenesis": 1,
+            "fluoxetine": 1,
+            "cognition": 1,
+            "anxiety": 1,
+            "central nervous system": 1,
+            "root": 1,
+            "chicory": 1,
+            "oral": 1,
+            "regulating": 1,
+            "homeostasis": 1,
+            "gba": 1,
+            "gut brain axis": 1,
+            "intestinal": 1,
+            "cns": 1,
+            "swim": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "chemical": 10,
+                "anatomical": 7,
+                "disease": 3,
+                "bioprocess": 3,
+                "organism": 3
+            },
+            "by_offset": {
+                "1": 26
+            }
+        }
+    },
+    "36009361": {
+        "total_entities": 29,
+        "valid_entities": 29,
+        "invalid_entities": 0,
+        "adjusted_entities": 23,
+        "label_counts": {
+            "DDF": 15,
+            "anatomical": 9,
+            "bioprocess": 3,
+            "organism": 2
+        },
+        "text_span_counts": {
+            "oid": 4,
+            "gut": 4,
+            "pain": 2,
+            "depression": 2,
+            "parkinson's disease": 2,
+            "brain": 1,
+            "faecal": 1,
+            "irritable bowel disease": 1,
+            "clostridium difficile": 1,
+            "escherichia coli": 1,
+            "intestinal": 1,
+            "cognitive": 1,
+            "gut-brain": 1,
+            "proliferation": 1,
+            "hyperalgesia": 1,
+            "modulate": 1,
+            "epithelial barrier": 1,
+            "-induced dysbiosis": 1,
+            "dysbiosis": 1,
+            "infection": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "DDF": 11,
+                "anatomical": 7,
+                "bioprocess": 3,
+                "organism": 2
+            },
+            "by_offset": {
+                "1": 23
+            }
+        }
+    },
+    "26370263": {
+        "total_entities": 2,
+        "valid_entities": 2,
+        "invalid_entities": 0,
+        "adjusted_entities": 2,
+        "label_counts": {
+            "Human": 1,
+            "DDF": 1
+        },
+        "text_span_counts": {
+            "human": 1,
+            "psychiatric disorders": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "Human": 1,
+                "DDF": 1
+            },
+            "by_offset": {
+                "1": 2
+            }
+        }
+    },
+    "31519175": {
+        "total_entities": 31,
+        "valid_entities": 30,
+        "invalid_entities": 1,
+        "adjusted_entities": 28,
+        "label_counts": {
+            "Anatomical": 11,
+            "DDF": 8,
+            "Bioprocess": 4,
+            "Disease": 3,
+            "Gene": 3,
+            "Human": 1,
+            "Cell_component": 1
+        },
+        "text_span_counts": {
+            "blood": 3,
+            "neurodegeneration": 2,
+            "brain": 2,
+            "neurodegenerative disease": 2,
+            "gum": 2,
+            "alzheimer's disease": 2,
+            "intestinal": 1,
+            "apoe": 1,
+            "systemic infections": 1,
+            "neurodegenerative diseases": 1,
+            "tau": 1,
+            "amyloid β": 1,
+            "synapses": 1,
+            "microglial activation": 1,
+            "memory": 1,
+            "bacterial infection": 1,
+            "activation": 1,
+            "brain microglial": 1,
+            "inflammation": 1,
+            "humans": 1,
+            "gut": 1,
+            "infections": 1,
+            "blood plasma": 1,
+            "parkinson's disease": 1
+        },
+        "adjustments": {
+            "by_label": {
+                "Anatomical": 11,
+                "DDF": 5,
+                "Bioprocess": 4,
+                "Disease": 3,
+                "Gene": 3,
+                "Human": 1,
+                "Cell_component": 1
+            },
+            "by_offset": {
+                "1": 28
+            }
+        }
+    }
+}
