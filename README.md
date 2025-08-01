@@ -2,6 +2,8 @@
 
 This repository contains the code used for our participation at the BioASQ2025 Task6 - GutBrainIE: Gut-Brain interplay Information Extraction @CLEF 2025
 
+The paper describing our participation is available [here](https://www.dei.unipd.it/~faggioli/temp/clef2025/paper_13.pdf).
+
 ### [BENT annotation tool](https://github.com/lasigeBioTM/BENT)
 
 ## Systems
